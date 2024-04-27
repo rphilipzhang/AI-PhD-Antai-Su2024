@@ -84,13 +84,13 @@ The following schedule is tentative and subject to changes.
 ### First-Half (May/08/2024-May/12/2024) 
 
 ### Session 1. Artificial Intelligence and Machine Learning in a Nutshell (Jan/09/2024)
+
 - **Keywords**: Course Introduction, Traditional Machine Learning Methods, Bias-Variance Trade-off, Cross Validation, Deep Learning Basics, Neural Nets Models, Computational Issues of Deep Learning
 - **Slides**: [Course Introduction](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-1-Intro.pdf), [Machine Learning Basics](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-2-Intro2ML.pdf)
 - **CoLab Notebook Demos**: [Traditional ML Models: kNN, Decision Trees, Random Forests, XGBT](https://drive.google.com/drive/u/0/folders/1yBV9xT8aJTBqeQTGWv3kgMYXcj_BzUfQ), [Deep Learning: Gradient Descent, Chain Rule, Initialization, Dropout, Micro-Gradient](https://drive.google.com/drive/u/0/folders/1IfqlTOPGg5rFghxCjgNxXVQ23i-1MnJS)
 - **Homework**: [Problem Set 1: Bias-Variance Trade-Off](https://colab.research.google.com/drive/1-KfKoggMgFlimnelDD6CR1cROb2gfYnc)
 - **Online Python Tutorial**: [Python Tutorial CoLab](https://colab.research.google.com/drive/1Eygkyl-L1wziIHM8Ww64WMEBdWpyyvnk?usp=sharing), 10:00am-noon, May/09/2024 (Thursday), given by Zhenkang Peng, zhenkang1397@gmail.com. [Tencent Meeting Link](), Meeting ID: XXX, Pass code: XXX
 - **Online PyTorch Tutorial**: [PyTorch Tutorial CoLab](https://colab.research.google.com/drive/1eR9XVw46Z1kV1c1kexBP6Si-3v4bQ5Cn?usp=sharing), 10:00am-noon, May/10/2024 (Friday), given by Zhenkang Peng, zhenkang1397@gmail.com. [Tencent Meeting Link](), Meeting ID: XXX, Pass code: XXX
-
 - **References**:
     - *The Elements of Statistical Learning* (2nd Edition), 2009, by Trevor Hastie, Robert Tibshirani, Jerome Friedman. [Link to the Book](https://hastie.su.domains/ElemStatLearn/).
     - *Probabilistic Machine Learning: An Introduction*, 2022, by Kevin Murphy. [Link to the Book](https://probml.github.io/pml-book/book1.html).
