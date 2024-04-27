@@ -9,6 +9,6 @@
 
 - Website: https://github.com/rphilipzhang/AI-PhD-Antai-Su2024
 - Time: 
-   - First Half: May 8 (2:00PM-5:40PM); May 10 (6:00PM-9:05PM); May 11 (6:00PM-9:05PM); May 12 (2:00PM-5:40PM)
-   - Second Half: May 15 (2:00PM-5:40PM); May 16 (6:00PM-9:05PM); May 17 (6:00PM-9:05PM); May 18 (2:00PM-5:40PM)
+   - **1st-Half**: May 8 (2:00PM-5:40PM); May 10 (6:00PM-9:05PM); May 11 (6:00PM-9:05PM); May 12 (2:00PM-5:40PM)
+   - **2nd-Half**: May 15 (2:00PM-5:40PM); May 16 (6:00PM-9:05PM); May 17 (6:00PM-9:05PM); May 18 (2:00PM-5:40PM)
 - Location: TBD
