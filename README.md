@@ -43,3 +43,17 @@ If you have any feedback on this course, please directly contact Philip at phili
 |6|May 16, 6:00pm-9:05pm|CV (II): Image Segmentation and Video Analysis|R-CNN, YOLO, 3D-CNN|
 |7|May 17, 6:00pm-9:05pm|Unsupervised Learning (I): Clustering & Topic Modeling|GMM, EM Algorithm, LDA|
 |8|May 18, 2:00pm-5:40pm|Unsupervised Learning (II): Diffusion Models|VAE, DDPM, LDM, DiT|
+
+
+## Important Dates
+
+
+|Date| Time|Event|Note|
+|:--:|:-:|:---:|:--:|
+|May 10| 11:59pm|[Group Sign-Ups](https://docs.google.com/spreadsheets/d/1nOE-saTptG73WMCONDB1Z3pt-jHhmDA_1OHpQVHqQ1M/edit?usp=sharing)|Each group has at most two students.|
+|1.12| 7:00pm-9:00pm|Python Tutorial|Given by Qiansiqi Hu, [Python Tutorial CoLab](https://colab.research.google.com/drive/1peyxt9YEQTcwefb1vB-Eiduwf_9G09Ui)|
+|1.19| 7:00pm-9:00pm|[PyTorch](https://pytorch.org/docs/stable/nn.html) Tutorial|Given by Qiansiqi Hu, [PyTorch Tutorial CoLab](https://colab.research.google.com/drive/1Yg5q5v2CKNwPuaNAieg7ENDdA8Tn3wux)|
+|3.05|9:00am-6:00pm|Final Project Discussion|Please schedule a meeting with Philip.|
+|3.12| 12:30pm|Final Project Proposal|1-page maximum|
+|4.30| 11:59pm|Scribed Lecture Notes|Overleaf link|
+|5.12|11:59pm|Project Paper, Slides, and Code|Paper page limit: 10| 
