@@ -50,10 +50,9 @@ If you have any feedback on this course, please directly contact Philip at phili
 
 |Date| Time|Event|Note|
 |:--:|:-:|:---:|:--:|
-|May 10| 11:59pm|[Group Sign-Ups](https://docs.google.com/spreadsheets/d/1nOE-saTptG73WMCONDB1Z3pt-jHhmDA_1OHpQVHqQ1M/edit?usp=sharing)|Each group has at most two students.|
-|1.12| 7:00pm-9:00pm|Python Tutorial|Given by Qiansiqi Hu, [Python Tutorial CoLab](https://colab.research.google.com/drive/1peyxt9YEQTcwefb1vB-Eiduwf_9G09Ui)|
-|1.19| 7:00pm-9:00pm|[PyTorch](https://pytorch.org/docs/stable/nn.html) Tutorial|Given by Qiansiqi Hu, [PyTorch Tutorial CoLab](https://colab.research.google.com/drive/1Yg5q5v2CKNwPuaNAieg7ENDdA8Tn3wux)|
-|3.05|9:00am-6:00pm|Final Project Discussion|Please schedule a meeting with Philip.|
-|3.12| 12:30pm|Final Project Proposal|1-page maximum|
-|4.30| 11:59pm|Scribed Lecture Notes|Overleaf link|
-|5.12|11:59pm|Project Paper, Slides, and Code|Paper page limit: 10| 
+|May 8| 11:59pm|[Group Sign-Ups](https://docs.google.com/spreadsheets/d/127rkG4QN_85JNQce9g3egzby9c72Yk0kRZqfUE7QfYA/edit#gid=0)|Each group has at most two students.|
+|May 9| 10:00am-noon|Python Tutorial|Given by Zhenkang Peng, [Python Tutorial CoLab](https://colab.research.google.com/drive/1Eygkyl-L1wziIHM8Ww64WMEBdWpyyvnk?usp=sharing)|
+|May 10| 10:00am-noon|[PyTorch](https://pytorch.org/docs/stable/nn.html) Tutorial|Given by Zhenkang Peng, [PyTorch Tutorial CoLab](https://colab.research.google.com/drive/1eR9XVw46Z1kV1c1kexBP6Si-3v4bQ5Cn?usp=sharing)|
+|May 13|11:59pm|[Submit Your Choice of Project 1](https://docs.google.com/spreadsheets/d/127rkG4QN_85JNQce9g3egzby9c72Yk0kRZqfUE7QfYA/edit#gid=902044646)||
+|May 19|11:59pm|[Submit Your Choice of Project 2](https://docs.google.com/spreadsheets/d/127rkG4QN_85JNQce9g3egzby9c72Yk0kRZqfUE7QfYA/edit#gid=674416022)||
+|June 2|11:59pm|[Submit All Problem Sets and Projects](https://docs.google.com/spreadsheets/d/127rkG4QN_85JNQce9g3egzby9c72Yk0kRZqfUE7QfYA/edit?usp=sharing)|Project Report page limit: 10| 
