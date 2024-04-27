@@ -57,6 +57,20 @@ If you have any feedback on this course, please directly contact Philip at phili
 |May 19|11:59pm|[Submit Your Choice of Project 2](https://docs.google.com/spreadsheets/d/127rkG4QN_85JNQce9g3egzby9c72Yk0kRZqfUE7QfYA/edit#gid=674416022)||
 |June 2|11:59pm|[Submit All Problem Sets and Projects](https://docs.google.com/spreadsheets/d/127rkG4QN_85JNQce9g3egzby9c72Yk0kRZqfUE7QfYA/edit?usp=sharing)|Project Report page limit: 5| 
 
+
+## Replication Projects
+
+Choose one from the following to replicate for **Project 1 (1st-Half)**:
+- Chen, Luyang, Markus Pelger, Jason Zhu (2023) Deep Learning in Asset Pricing. *Management Science* 70(2):714-750. [Link to the Paper](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.4695); [Link to the GitHub Repo](https://github.com/LouisChen1992/Deep_Learning_in_Asset_Pricing).
+- Mei, Q., Xie, Y., Yuan, W., Jackson, M. O. (2024). A Turing test of whether AI chatbots are behaviorally similar to humans. *Proceedings of the National Academy of Sciences*, 121(9), e2313925121. [Link to the Paper](https://www.pnas.org/doi/full/10.1073/pnas.2313925121); [Link to the GitHun Repo](https://github.com/yutxie/ChatGPT-Behavioral).
+
+Choose one from the following to replicate for **Project 2 (2nd-Half)**:
+- Zhang, Mengxia and Lan Luo. 2023. Can consumer-posted photos serve as a leading indicator of restaurant survival? Evidence from Yelp. *Management Science* 69(1): 25-50. [Link to the Paper](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2022.4359); [Link to the Data and Code](https://www.dropbox.com/s/r53aill2dkbu3ir/management_science_data_code_submission.zip
+?dl=0).
+- Burnap, Alex , John R. Hauser, Artem Timoshenko (2023) Product Aesthetic Design: A Machine Learning Augmentation. *Marketing Science* 42(6):1029-1056. [Link to the Paper](https://pubsonline.informs.org/doi/full/10.1287/mksc.2022.1429); [Link to Download the Replication Files](https://services.informs.org/dataset/mksc/download.php?doi=mksc.2022.1429).
+
+
+
 ## Useful Resources
 Find more on the [Syllabus](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/AI-PhD-Syllabus-Su2024.pdf).
 
