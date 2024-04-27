@@ -56,3 +56,10 @@ If you have any feedback on this course, please directly contact Philip at phili
 |May 13|11:59pm|[Submit Your Choice of Project 1](https://docs.google.com/spreadsheets/d/127rkG4QN_85JNQce9g3egzby9c72Yk0kRZqfUE7QfYA/edit#gid=902044646)||
 |May 19|11:59pm|[Submit Your Choice of Project 2](https://docs.google.com/spreadsheets/d/127rkG4QN_85JNQce9g3egzby9c72Yk0kRZqfUE7QfYA/edit#gid=674416022)||
 |June 2|11:59pm|[Submit All Problem Sets and Projects](https://docs.google.com/spreadsheets/d/127rkG4QN_85JNQce9g3egzby9c72Yk0kRZqfUE7QfYA/edit?usp=sharing)|Project Report page limit: 5| 
+
+## Useful Resources
+Find more on the [Syllabus](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/AI-PhD-Syllabus-Su2024.pdf).
+
+- **Books**: [ESL](https://hastie.su.domains/ElemStatLearn/), [Deep Learning](https://www.deeplearningbook.org/), [Dive into Deep Learning](https://d2l.ai/), [ML Fairness](https://fairmlbook.org/), [Applied Causal Inference Powered by ML and AI](https://causalml-book.org/)
+- **Courses**: [ML Intro by Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction), [DL Intro by Andrew Ng](https://www.coursera.org/specializations/deep-learning), [NLP (CS224N) by Chris Manning](https://web.stanford.edu/class/cs224n/), [CV (CS231N) by Fei-Fei Li](http://cs231n.stanford.edu/), [Deep Unsupervised Learning by Pieter Abbeel](https://sites.google.com/view/berkeley-cs294-158-sp24/home), [DLR by Sergey Levine](https://rail.eecs.berkeley.edu/deeprlcourse/), [DL Theory by Matus Telgarsky](https://mjt.cs.illinois.edu/courses/dlt-f22/), [LLM by Danqi Chen](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/), [Generative AI by Andrew Ng](https://www.deeplearning.ai/short-courses/), [Machine Learning and Big Data by Melissa Dell and Matthew Harding](https://www.aeaweb.org/conference/cont-ed/2023-webcasts), [Digital Economics and the Economics of AI by Martin Beraja, Chiara Farronato, Avi Goldfarb, and Catherine Tucker](https://www.aeaweb.org/content/file?id=19707)
+
