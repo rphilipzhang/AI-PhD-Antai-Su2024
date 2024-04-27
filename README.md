@@ -63,3 +63,27 @@ Find more on the [Syllabus](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/
 - **Books**: [ESL](https://hastie.su.domains/ElemStatLearn/), [Deep Learning](https://www.deeplearningbook.org/), [Dive into Deep Learning](https://d2l.ai/), [ML Fairness](https://fairmlbook.org/), [Applied Causal Inference Powered by ML and AI](https://causalml-book.org/)
 - **Courses**: [ML Intro by Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction), [DL Intro by Andrew Ng](https://www.coursera.org/specializations/deep-learning), [NLP (CS224N) by Chris Manning](https://web.stanford.edu/class/cs224n/), [CV (CS231N) by Fei-Fei Li](http://cs231n.stanford.edu/), [Deep Unsupervised Learning by Pieter Abbeel](https://sites.google.com/view/berkeley-cs294-158-sp24/home), [DLR by Sergey Levine](https://rail.eecs.berkeley.edu/deeprlcourse/), [DL Theory by Matus Telgarsky](https://mjt.cs.illinois.edu/courses/dlt-f22/), [LLM by Danqi Chen](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/), [Generative AI by Andrew Ng](https://www.deeplearning.ai/short-courses/), [Machine Learning and Big Data by Melissa Dell and Matthew Harding](https://www.aeaweb.org/conference/cont-ed/2023-webcasts), [Digital Economics and the Economics of AI by Martin Beraja, Chiara Farronato, Avi Goldfarb, and Catherine Tucker](https://www.aeaweb.org/content/file?id=19707)
 
+## Detailed Schedule
+
+The following schedule is tentative and subject to changes.
+
+### First-Half (May/08/2024-May/12/2024) 
+
+### Session 1. Artificial Intelligence and Machine Learning in a Nutshell (Jan/09/2024)
+- **Keywords**: Course Introduction, Machine Learning Basics, Bias-Variance Trade-off, Cross Validation, $k$-Nearest Neighbors, Decision Tree, Ensemble Methods
+- **Slides**: [Course Introduction](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-1-Intro.pdf), [Machine Learning Basics](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Slides/AI-PhD-S2024-2-Intro2ML.pdf)
+- **CoLab Notebook Demos**: [k-Nearest Neighbors](https://colab.research.google.com/drive/1-PuAN4SXddJE81hccE76MW4GN3vdtjEF), [Decision Tree](https://colab.research.google.com/drive/1HeliQLaJQWg17LHcXUkEnAi5TVtzGdH0)
+- **Homework**: [Problem Set 1: Bias-Variance Trade-Off](https://colab.research.google.com/drive/1BviUCmJPMeXsdRZ3O0gGtgS3JV12U_3d)
+- **Scribed Lecture Notes**: *To be updated.*
+- **Online Python Tutorial**: [Python Tutorial CoLab](https://colab.research.google.com/drive/1peyxt9YEQTcwefb1vB-Eiduwf_9G09Ui#scrollTo=635401d7), 7:00pm-9:00pm, Jan/12/2024 (Friday), given by Qiansiqi Hu, 1155208353@link.cuhk.edu.hk. [Zoom Link](https://cuhk.zoom.us/j/92346424433?pwd=OGErUmRUNnJ6S0RvNjBEWTBDSUJFdz09), Meeting ID: 923 4642 4433, Pass code: 178146
+- **References**:
+    - *The Elements of Statistical Learning* (2nd Edition), 2009, by Trevor Hastie, Robert Tibshirani, Jerome Friedman, https://hastie.su.domains/ElemStatLearn/.
+    - *Probabilistic Machine Learning: An Introduction*, 2022, by Kevin Murphy, https://probml.github.io/pml-book/book1.html.
+    - Mullainathan, Sendhil, and Jann Spiess. 2017. Machine learning: an applied econometric approach. *Journal of Economic Perspectives* 31(2): 87-106.
+    - Athey, Susan, and Guido W. Imbens. 2019. Machine learning methods that economists should know about. *Annual Review of Economics* 11: 685-725.
+    - Hofman, Jake M., et al. 2021. Integrating explanation and prediction in computational social science. *Nature* 595.7866: 181-188.
+    - Bastani, Hamsa, Dennis Zhang, and Heng Zhang. 2022. Applied machine learning in operations management. *Innovative Technology at the Interface of Finance and Operations*. Springer: 189-222.
+    - Kelly, Brian, and Dacheng Xiu. 2023. Financial machine learning, *SSRN*, https://ssrn.com/abstract=4501707.   
+    - [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html), by Rich Sutton, which develops so far the most critical insight of AI: "The biggest lesson that can be read from 70 years of AI research is that general methods that leverage computation are ultimately the most effective, and by a large margin."
+
+
