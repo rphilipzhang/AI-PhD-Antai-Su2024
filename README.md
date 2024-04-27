@@ -35,11 +35,11 @@ If you have any feedback on this course, please directly contact Philip at phili
 
 |Session|Date & Time|Topic|Key Words|
 |:-------:|:-------------:|:----:|:-:|
-|1|5.08, 2:00pm-5:40pm|AI/ML in a Nutshell|Course Intro, ML Models, DL|
-|2|5.10, 6:00pm-9:05pm|Prediction and Traditional NLP|Prediction in Biz Research, Pre-processing, $N$-gram, Naïve Bayes| 
-|3|5.11, 6:00pm-9:05pm|NLP (II): Deep Learning|Word2Vec, RNN, Seq2Seq, Attention, Transformer|
-|4|5.12, 2:00pm-5:40pm|NLP (III): LLM|BERT, GPT, Emergent Abilities, Chain-of-Thought, In-context Learning, GenAI in Business Research|
-|5|5.15, 2:00pm-5:40pm|CV (I): Image Classification|CNN, AlexNet, ResNet, ViT|
-|6|5.16, 6:00pm-9:05pm|CV (II): Image Segmentation and Video Analysis|R-CNN, YOLO, 3D-CNN|
-|7|5.17, 6:00pm-9:05pm|Unsupervised Learning (I): Clustering & Topic Modeling|GMM, EM Algorithm, LDA|
-|8|5.18, 2:00pm-5:40pm|Unsupervised Learning (II): Diffusion Models|VAE, DDPM, LDM, DiT|
+|1|May 8, 2:00pm-5:40pm|AI/ML in a Nutshell|Course Intro, ML Models, DL|
+|2|May 10, 6:00pm-9:05pm|Prediction and Traditional NLP|Prediction in Biz Research, Pre-processing, $N$-gram, Naïve Bayes| 
+|3|May 11, 6:00pm-9:05pm|NLP (II): Deep Learning|Word2Vec, RNN, Seq2Seq, Attention, Transformer|
+|4|May 12, 2:00pm-5:40pm|NLP (III): LLM|BERT, GPT, Emergent Abilities, Chain-of-Thought, In-context Learning, GenAI in Business Research|
+|5|May 15, 2:00pm-5:40pm|CV (I): Image Classification|CNN, AlexNet, ResNet, ViT|
+|6|May 16, 6:00pm-9:05pm|CV (II): Image Segmentation and Video Analysis|R-CNN, YOLO, 3D-CNN|
+|7|May 17, 6:00pm-9:05pm|Unsupervised Learning (I): Clustering & Topic Modeling|GMM, EM Algorithm, LDA|
+|8|May 18, 2:00pm-5:40pm|Unsupervised Learning (II): Diffusion Models|VAE, DDPM, LDM, DiT|
