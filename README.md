@@ -83,7 +83,7 @@ The following schedule is tentative and subject to changes.
 
 ### First-Half (May/08/2024-May/12/2024) 
 
-### Session 1. Artificial Intelligence and Machine Learning in a Nutshell (Jan/09/2024, 2:00pm-5:40pm)
+### Session 1. Artificial Intelligence and Machine Learning in a Nutshell (May/08/2024, 2:00pm-5:40pm)
 
 - **Keywords**: Course Introduction, Traditional Machine Learning Methods, Bias-Variance Trade-off, Cross Validation, Deep Learning Basics, Neural Nets Models, Computational Issues of Deep Learning
 - **Slides**: [Course Introduction](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-1-Intro.pdf), [Machine Learning Basics](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-2-Intro2ML.pdf), [Deep Learning Basics](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-3-Intro2DL.pdf)
