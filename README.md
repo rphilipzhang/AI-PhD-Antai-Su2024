@@ -65,8 +65,7 @@ Choose one from the following to replicate for **Project 1 (1st-Half)**:
 - Mei, Q., Xie, Y., Yuan, W., Jackson, M. O. (2024). A Turing test of whether AI chatbots are behaviorally similar to humans. *Proceedings of the National Academy of Sciences*, 121(9), e2313925121. [Link to the Paper](https://www.pnas.org/doi/full/10.1073/pnas.2313925121); [Link to the GitHun Repo](https://github.com/yutxie/ChatGPT-Behavioral).
 
 Choose one from the following to replicate for **Project 2 (2nd-Half)**:
-- Zhang, Mengxia and Lan Luo. 2023. Can consumer-posted photos serve as a leading indicator of restaurant survival? Evidence from Yelp. *Management Science* 69(1): 25-50. [Link to the Paper](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2022.4359); [Link to the Data and Code](https://www.dropbox.com/s/r53aill2dkbu3ir/management_science_data_code_submission.zip
-?dl=0).
+- Zhang, Mengxia and Lan Luo. 2023. Can consumer-posted photos serve as a leading indicator of restaurant survival? Evidence from Yelp. *Management Science* 69(1): 25-50. [Link to the Paper](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2022.4359); [Link to the Data and Code](https://www.dropbox.com/s/r53aill2dkbu3ir/management_science_data_code_submission.zip).
 - Burnap, Alex , John R. Hauser, Artem Timoshenko (2023) Product Aesthetic Design: A Machine Learning Augmentation. *Marketing Science* 42(6):1029-1056. [Link to the Paper](https://pubsonline.informs.org/doi/full/10.1287/mksc.2022.1429); [Link to Download the Replication Files](https://services.informs.org/dataset/mksc/download.php?doi=mksc.2022.1429).
 
 
