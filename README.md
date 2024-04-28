@@ -106,6 +106,25 @@ The following schedule is tentative and subject to changes.
     - Gu, Shihao, Brian Kelly, and Dacheng Xiu. 2020. Empirical asset pricing with machine learning. *Review of Financial Studies* 33: 2223-2273.
     - [GPU Comparisons](https://bizon-tech.com/gpu-benchmarks/NVIDIA-A100-80-GB-(PCIe)-vs-NVIDIA-H100-(PCIe)-vs-NVIDIA-RTX-6000-Ada/624vs632vs640)
     - [GitHub Repo for Micrograd](https://github.com/karpathy/micrograd), by [Andrej Karpathy](https://github.com/karpathy).
+    - [Parameter Initialization and Batch Normalization (in Chinese)](https://zhuanlan.zhihu.com/p/25110150).
 
 
-
+### Session 2. Predictions in Business Research and Traditonal NLP (May/10/2024)
+- **Keywords**: Prediction Problems in Business Research, Pre-processing and Word Representations in Traditional Natural Language Processing, N-Gram, Naïve Bayes, Traditional NLP Applied to Business/Econ Research
+- **Slides**: [Prediction Problems in Business Research](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-4-Prediction.pdf), [NLP(I): Traditional NLP](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-5-NLP(I).pdf)
+- **CoLab Notebook Demos**: [NLP Pre-processing](https://colab.research.google.com/drive/1DM8HGhe4yAiku0GyenRmw_m7ApZw0pEh), [N-Gram](https://colab.research.google.com/drive/1jQGDTL3yYBtiX9Z3ymoFh-uJ0491ssFn), [Naïve Bayes](https://colab.research.google.com/drive/1ayQuYLglKqgheoAzWJiKnxtclpl_A0eN)
+- **References**:
+    - Kleinberg, Jon, Jens Ludwig, Sendhil Mullainathan, and Ziad Obermeyer. 2015. Prediction policy problems. *American Economic Review* 105(5): 491-495.
+    - Mullainathan, Sendhil, and Jann Spiess. 2017. Machine learning: an applied econometric approach. *Journal of Economic Perspectives* 31(2): 87-106.
+    - Kleinberg, Jon, Himabindu Lakkaraju, Jure Leskovec, Jens Ludwig, and Sendhil Mullainathan. 2018. Human decisions and machine predictions. *Quarterly Journal of Economics* 133(1): 237-293.
+    - Bajari, Patrick, Denis Nekipelov, Stephen P. Ryan, and Miaoyu Yang. 2015. Machine learning methods for demand estimation. *American Economic Review*, 105(5): 481-485.
+    - Farias, Vivek F., and Andrew A. Li. 2019. Learning preferences with side information. *Management Science* 65(7): 3131-3149.
+    - Cui, Ruomeng, Santiago Gallino, Antonio Moreno, and Dennis J. Zhang. 2018. The operational value of social media information. *Production and Operations Management*, 27(10): 1749-1769.
+    - Gentzkow, Matthew, Bryan Kelly, and Matt Taddy. 2019. Text as data. *Journal of Economic Literature*, 57(3): 535-574.
+    - Hansen, Stephen, Michael McMahon, and Andrea Prat. 2018. Transparency and deliberation within the FOMC: A computational linguistics approach. *Quarterly Journal of Economics*, 133(2): 801-870.
+    - Tetlock, Paul. 2007. Giving content to investor sentiment: The role of media in the stock market. *Journal of Finance*, 62(3): 1139-1168.
+    - Baker, Scott, Nicholas Bloom, and Steven Davis, 2016. Measuring economic policy uncertainty. *Quarterly Journal of Economics*, 131(4): 1593-1636.
+    - Gentzkow, Matthew, and Jesse Shapiro. 2010. What drives media slant? Evidence from US daily newspapers. *Econometrica*, 78(1): 35-71.
+    - Chapter 2, 12, & 13 *Introduction to Information Retrieval*, 2008, Cambridge University Press, by Christopher D. Manning, Prabhakar Raghavan and Hinrich Schutze. [Link to the Book](https://nlp.stanford.edu/IR-book/information-retrieval-book.html).
+    - Chapter 2, 3, & 4, *Speech and Language Processing* (3rd ed. draft), 2023, by Dan Jurafsky and James H. Martin. [Link to the Book](https://web.stanford.edu/~jurafsky/slp3/). 
+    - [Natural Language Tool Kit (NLTK) Documentation](https://www.nltk.org/)
