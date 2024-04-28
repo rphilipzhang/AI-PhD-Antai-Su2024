@@ -86,7 +86,7 @@ The following schedule is tentative and subject to changes.
 ### Session 1. Artificial Intelligence and Machine Learning in a Nutshell (Jan/09/2024)
 
 - **Keywords**: Course Introduction, Traditional Machine Learning Methods, Bias-Variance Trade-off, Cross Validation, Deep Learning Basics, Neural Nets Models, Computational Issues of Deep Learning
-- **Slides**: [Course Introduction](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-1-Intro.pdf), [Machine Learning Basics](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-2-Intro2ML.pdf)
+- **Slides**: [Course Introduction](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-1-Intro.pdf), [Machine Learning Basics](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-2-Intro2ML.pdf), [Deep Learning Basics](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-3-Intro2DL.pdf)
 - **CoLab Notebook Demos**: [Traditional ML Models: kNN, Decision Trees, Random Forests, XGBT](https://drive.google.com/drive/u/0/folders/1yBV9xT8aJTBqeQTGWv3kgMYXcj_BzUfQ), [Deep Learning: Gradient Descent, Chain Rule, Initialization, Dropout, Micro-Gradient](https://drive.google.com/drive/u/0/folders/1IfqlTOPGg5rFghxCjgNxXVQ23i-1MnJS)
 - **Homework**: [Problem Set 1: Bias-Variance Trade-Off](https://colab.research.google.com/drive/1-KfKoggMgFlimnelDD6CR1cROb2gfYnc)
 - **Online Python Tutorial**: [Python Tutorial CoLab](https://colab.research.google.com/drive/1Eygkyl-L1wziIHM8Ww64WMEBdWpyyvnk?usp=sharing), 10:00am-noon, May/09/2024 (Thursday), given by Zhenkang Peng, zhenkang1397@gmail.com. [Tencent Meeting Link](), Meeting ID: XXX, Pass code: XXX
