@@ -20,9 +20,9 @@ Welcome to the mono-repo of the PhD course AI for Business Research at SJTU Anta
 - Understand how business researchers have utilized ML/AI and what managerial questions have been addressed by ML/AI in the recent decade.
 - Nurture a taste of what the state-of-the-art AI/ML technologies can do in the ML/AI community and, potentially, in your own research field.
 
-We will meet at the time specified above in XXX. Please ask for my approval if you need to join us via the following Tencent Meeting link:
+We will meet at the time specified above in XXX. Please ask for my approval if you need to join us via the following Zoom Meeting link:
 
-- [Tencent Meeting link](), Meeting ID XXX, Passcode XXX. 
+- [Zoom Meeting link](https://cuhk.zoom.us/j/92669380190?pwd=YWJXRTIwSmdVNEEzc0RqWk4rdUIxQT09), Meeting ID 926 6938 0190, Passcode 869709. 
 
 Most of the code in this course will be distributed through the [Google CoLab](https://colab.research.google.com/) cloud computing environment to avoid the incompatibility and version control issues on your local individual computer. On the other hand, you can always download the Jupyter Notebook from CoLab and run it your own computer.
 
@@ -51,11 +51,11 @@ If you have any feedback on this course, please directly contact Philip at phili
 |Date| Time|Event|Note|
 |:--:|:-:|:---:|:--:|
 |May 8| 11:59pm|[Group Sign-Ups](https://docs.google.com/spreadsheets/d/127rkG4QN_85JNQce9g3egzby9c72Yk0kRZqfUE7QfYA/edit#gid=0)|Each group has at most two students.|
-|May 9| 10:00am-noon|Python Tutorial|Given by Zhenkang Peng, [Python Tutorial CoLab](https://colab.research.google.com/drive/1Eygkyl-L1wziIHM8Ww64WMEBdWpyyvnk?usp=sharing)|
-|May 10| 10:00am-noon|[PyTorch](https://pytorch.org/docs/stable/nn.html) Tutorial|Given by Zhenkang Peng, [PyTorch Tutorial CoLab](https://colab.research.google.com/drive/1eR9XVw46Z1kV1c1kexBP6Si-3v4bQ5Cn?usp=sharing)|
+|May 9| 10:00am-noon|Online Python Tutorial|Given by Zhenkang Peng, [Python Tutorial CoLab](https://colab.research.google.com/drive/1Eygkyl-L1wziIHM8Ww64WMEBdWpyyvnk?usp=sharing), [Zoom Link](https://cuhk.zoom.us/j/93652436720?pwd=UE04RkNjd1NsckNwSnlpVHB3WjQxdz09)|
+|May 10| 10:00am-noon|Online [PyTorch](https://pytorch.org/docs/stable/nn.html) Tutorial|Given by Zhenkang Peng, [PyTorch Tutorial CoLab](https://colab.research.google.com/drive/1eR9XVw46Z1kV1c1kexBP6Si-3v4bQ5Cn?usp=sharing), [Zoom Link](https://cuhk.zoom.us/j/93652436720?pwd=UE04RkNjd1NsckNwSnlpVHB3WjQxdz09)|
 |May 13|11:59pm|[Submit Your Choice of Project 1](https://docs.google.com/spreadsheets/d/127rkG4QN_85JNQce9g3egzby9c72Yk0kRZqfUE7QfYA/edit#gid=902044646)||
 |May 19|11:59pm|[Submit Your Choice of Project 2](https://docs.google.com/spreadsheets/d/127rkG4QN_85JNQce9g3egzby9c72Yk0kRZqfUE7QfYA/edit#gid=674416022)||
-|June 2|11:59pm|[Submit All Problem Sets and Projects](https://docs.google.com/spreadsheets/d/127rkG4QN_85JNQce9g3egzby9c72Yk0kRZqfUE7QfYA/edit?usp=sharing)|Project Report page limit: 5| 
+|June 2|11:59pm|[Submit All Problem Sets and Projects](https://docs.google.com/spreadsheets/d/127rkG4QN_85JNQce9g3egzby9c72Yk0kRZqfUE7QfYA/edit?usp=sharing)|Project Report page limit: 5 each| 
 
 
 ## Replication Projects
@@ -88,8 +88,8 @@ The following schedule is tentative and subject to changes.
 - **Slides**: [Course Introduction](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-1-Intro.pdf), [Machine Learning Basics](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-2-Intro2ML.pdf), [Deep Learning Basics](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-3-Intro2DL.pdf)
 - **CoLab Notebook Demos**: [Traditional ML Models: kNN, Decision Trees, Random Forests, XGBT](https://drive.google.com/drive/u/0/folders/1yBV9xT8aJTBqeQTGWv3kgMYXcj_BzUfQ), [Deep Learning: Gradient Descent, Chain Rule, Initialization, Dropout, Micro-Gradient](https://drive.google.com/drive/u/0/folders/1IfqlTOPGg5rFghxCjgNxXVQ23i-1MnJS)
 - **Homework**: [Problem Set 1 - Bias-Variance Trade-Off](https://colab.research.google.com/drive/1-KfKoggMgFlimnelDD6CR1cROb2gfYnc)
-- **Online Python Tutorial**: [Python Tutorial CoLab](https://colab.research.google.com/drive/1Eygkyl-L1wziIHM8Ww64WMEBdWpyyvnk?usp=sharing), 10:00am-noon, May/09/2024 (Thursday), given by Zhenkang Peng, zhenkang1397@gmail.com. [Tencent Meeting Link](), Meeting ID: XXX, Pass code: XXX
-- **Online PyTorch Tutorial**: [PyTorch Tutorial CoLab](https://colab.research.google.com/drive/1eR9XVw46Z1kV1c1kexBP6Si-3v4bQ5Cn?usp=sharing), 10:00am-noon, May/10/2024 (Friday), given by Zhenkang Peng, zhenkang1397@gmail.com. [Tencent Meeting Link](), Meeting ID: XXX, Pass code: XXX
+- **Online Python Tutorial**: [Python Tutorial CoLab](https://colab.research.google.com/drive/1Eygkyl-L1wziIHM8Ww64WMEBdWpyyvnk?usp=sharing), 10:00am-noon, May/09/2024 (Thursday), given by Zhenkang Peng, zhenkang1397@gmail.com. [Zoom Meeting Link](https://cuhk.zoom.us/j/93652436720?pwd=UE04RkNjd1NsckNwSnlpVHB3WjQxdz09), Meeting ID: 936 5243 6720, Passcode: 234990
+- **Online PyTorch Tutorial**: [PyTorch Tutorial CoLab](https://colab.research.google.com/drive/1eR9XVw46Z1kV1c1kexBP6Si-3v4bQ5Cn?usp=sharing), 10:00am-noon, May/10/2024 (Friday), given by Zhenkang Peng, zhenkang1397@gmail.com. [Zoom Meeting Link](https://cuhk.zoom.us/j/93652436720?pwd=UE04RkNjd1NsckNwSnlpVHB3WjQxdz09), Meeting ID: 936 5243 6720, Passcode: 234990
 - **References**:
     - *The Elements of Statistical Learning* (2nd Edition), 2009, by Trevor Hastie, Robert Tibshirani, Jerome Friedman. [Link to the Book](https://hastie.su.domains/ElemStatLearn/).
     - *Probabilistic Machine Learning: An Introduction*, 2022, by Kevin Murphy. [Link to the Book](https://probml.github.io/pml-book/book1.html).
