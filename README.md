@@ -53,9 +53,9 @@ If you have any feedback on this course, please directly contact Philip at phili
 |May 8| 11:59pm|[Group Sign-Ups](https://docs.google.com/spreadsheets/d/127rkG4QN_85JNQce9g3egzby9c72Yk0kRZqfUE7QfYA/edit#gid=0)|Each group has at most two students.|
 |May 9| 10:00am-noon|Online Python Tutorial|Given by Zhenkang Peng, [Python Tutorial CoLab](https://colab.research.google.com/drive/1Eygkyl-L1wziIHM8Ww64WMEBdWpyyvnk?usp=sharing), [Zoom Link](https://cuhk.zoom.us/j/93652436720?pwd=UE04RkNjd1NsckNwSnlpVHB3WjQxdz09)|
 |May 10| 10:00am-noon|Online [PyTorch](https://pytorch.org/docs/stable/nn.html) Tutorial|Given by Zhenkang Peng, [PyTorch Tutorial CoLab](https://colab.research.google.com/drive/1eR9XVw46Z1kV1c1kexBP6Si-3v4bQ5Cn?usp=sharing), [Zoom Link](https://cuhk.zoom.us/j/93652436720?pwd=UE04RkNjd1NsckNwSnlpVHB3WjQxdz09)|
-|May 13|11:59pm|[Project 1 Choice](https://docs.google.com/spreadsheets/d/127rkG4QN_85JNQce9g3egzby9c72Yk0kRZqfUE7QfYA/edit#gid=902044646)||
-|May 19|11:59pm|[Project 2 Choice](https://docs.google.com/spreadsheets/d/127rkG4QN_85JNQce9g3egzby9c72Yk0kRZqfUE7QfYA/edit#gid=674416022)||
-|June 2|11:59pm|[Submit All Problem Sets and Projects](https://docs.google.com/spreadsheets/d/127rkG4QN_85JNQce9g3egzby9c72Yk0kRZqfUE7QfYA/edit?usp=sharing)|Project Report page limit: 5 each| 
+|May 13|11:59pm|[Project 1 Choice Due](https://docs.google.com/spreadsheets/d/127rkG4QN_85JNQce9g3egzby9c72Yk0kRZqfUE7QfYA/edit#gid=902044646)||
+|May 19|11:59pm|[Project 2 Choice Due](https://docs.google.com/spreadsheets/d/127rkG4QN_85JNQce9g3egzby9c72Yk0kRZqfUE7QfYA/edit#gid=674416022)||
+|June 2|11:59pm|[All Problem Sets and Projects Due](https://docs.google.com/spreadsheets/d/127rkG4QN_85JNQce9g3egzby9c72Yk0kRZqfUE7QfYA/edit?usp=sharing)|Project Report page limit: 5 each| 
 
 
 ## Replication Projects
