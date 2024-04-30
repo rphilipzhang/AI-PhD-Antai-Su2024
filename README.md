@@ -87,7 +87,7 @@ The following schedule is tentative and subject to changes.
 - **Keywords**: Course Introduction, Traditional Machine Learning Methods, Bias-Variance Trade-off, Cross Validation, Deep Learning Basics, Neural Nets Models, Computational Issues of Deep Learning
 - **Slides**: [Course Introduction](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-1-Intro.pdf), [Machine Learning Basics](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-2-Intro2ML.pdf), [Deep Learning Basics](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-3-Intro2DL.pdf)
 - **CoLab Notebook Demos**: [Traditional ML Models: kNN, Decision Trees, Random Forests, XGBT](https://drive.google.com/drive/u/0/folders/1yBV9xT8aJTBqeQTGWv3kgMYXcj_BzUfQ), [Deep Learning: Gradient Descent, Chain Rule, Initialization, Dropout, Micro-Gradient](https://drive.google.com/drive/u/0/folders/1IfqlTOPGg5rFghxCjgNxXVQ23i-1MnJS)
-- **Homework**: [Problem Set 1: Bias-Variance Trade-Off](https://colab.research.google.com/drive/1-KfKoggMgFlimnelDD6CR1cROb2gfYnc)
+- **Homework**: [Problem Set 1 - Bias-Variance Trade-Off](https://colab.research.google.com/drive/1-KfKoggMgFlimnelDD6CR1cROb2gfYnc)
 - **Online Python Tutorial**: [Python Tutorial CoLab](https://colab.research.google.com/drive/1Eygkyl-L1wziIHM8Ww64WMEBdWpyyvnk?usp=sharing), 10:00am-noon, May/09/2024 (Thursday), given by Zhenkang Peng, zhenkang1397@gmail.com. [Tencent Meeting Link](), Meeting ID: XXX, Pass code: XXX
 - **Online PyTorch Tutorial**: [PyTorch Tutorial CoLab](https://colab.research.google.com/drive/1eR9XVw46Z1kV1c1kexBP6Si-3v4bQ5Cn?usp=sharing), 10:00am-noon, May/10/2024 (Friday), given by Zhenkang Peng, zhenkang1397@gmail.com. [Tencent Meeting Link](), Meeting ID: XXX, Pass code: XXX
 - **References**:
@@ -128,3 +128,28 @@ The following schedule is tentative and subject to changes.
     - Chapter 2, 12, & 13 *Introduction to Information Retrieval*, 2008, Cambridge University Press, by Christopher D. Manning, Prabhakar Raghavan and Hinrich Schutze. [Link to the Book](https://nlp.stanford.edu/IR-book/information-retrieval-book.html).
     - Chapter 2, 3, & 4, *Speech and Language Processing* (3rd ed. draft), 2023, by Dan Jurafsky and James H. Martin. [Link to the Book](https://web.stanford.edu/~jurafsky/slp3/). 
     - [Natural Language Tool Kit (NLTK) Documentation](https://www.nltk.org/)
+
+### Session 3. Deep-Learning-Based NLP: From Word2Vec to Transformers (May/11/2024, 6:00pm-9:05pm)
+- **Keywords**: Word2Vec: Continuous Bag of Words and Skip-Gram, RNN, LSTM, Seq2Seq, Attention Mechanism, Transformer
+- **Slides**: [NLP(II): Deep Learning Based NLP](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-6-NLP(II).pdf)
+- **CoLab Notebook Demos**: [Word2Vec: CBOW](https://colab.research.google.com/drive/17TH1pNWhNKnWG0H58XL2yxGu17xYvJ2x), [Word2Vec: Skip-Gram](https://colab.research.google.com/drive/18EJDphTR-YM1rCnjixq6CFwON-lqQp4G), [RNN & LSTM](https://colab.research.google.com/drive/1yhg2tO0-cJvQETT2MXZalwRzesqaPlJL), [Attention Mechanism](https://colab.research.google.com/drive/1u1xz4ja_CkTS7UN4PSqT2qOelJJdi24u), [Transformer](https://colab.research.google.com/drive/1MKRzM0Ql_2PFplsZ_Q-PL7vS21YCfkKz)
+- **Homework**: [Problem Set 2 - Word2Vec & LSTM for Sentiment Analysis](https://colab.research.google.com/drive/1A9BlvYJgjX-xZLWTbaMFA7XBv14BA65Z?usp=drive_link)
+- **References**:
+    - Ash, Elliot, and Stephen Hansen. 2023. Text algorithms in economics. *Annual Review of Economics*, 15: 659-688. [Associated GitHub with Code Demonstrations](https://github.com/sekhansen/text_algorithms_econ).
+    - Timoshenko, Artem, and John R. Hauser. 2019. Identifying customer needs from user-generated content. *Marketing Science*, 38(1): 1-20.
+    - Mikolov, Tomas, Kai Chen, Greg Corrado, and Jeff Dean. 2013. Efficient estimation of word representations in vector space. *ArXiv Preprint*, arXiv:1301.3781.
+    - Mikolov, Tomas, Ilya Sutskever, Kai Chen, Greg Corrado, and Jeff Dean. 2013. Distributed representations of words and phrases and their compositionality. *Advances in Neural Information Processing Systems (NeurIPS)* 26.
+    - Li, Kai, Feng Mai, Rui Shen, and Xinyan Yan. 2021. Measuring corporate culture using machine learning. *Review of Financial Studies*, 34(7): 3265-3315.
+    - Chen, Fanglin, Xiao Liu, Davide Proserpio, and Isamar Troncoso. 2022. Product2Vec: Leveraging representation learning to model consumer product choice in large assortments. *Available at SSRN 3519358*.
+    - Qi, Meng, Yuanyuan Shi, Yongzhi Qi, Chenxin Ma, Rong Yuan, Di Wu, Zuo-Jun (Max) Shen. 2023. A Practical End-to-End Inventory Management Model with Deep Learning. *Management Science*, 69(2): 759-773.
+    - Sarzynska-Wawer, Justyna, Aleksander Wawer, Aleksandra Pawlak, Julia Szymanowska, Izabela Stefaniak, Michal Jarkiewicz, and Lukasz Okruszek. 2021. Detecting formal thought disorder by deep contextualized word representations. *Psychiatry Research*, 304, 114135.
+    - Sutskever, Ilya, Oriol Vinyals, and Quoc V. Le. 2014. Sequence to sequence learning with neural networks. *Advances in neural information processing systems*, 27.
+    - Bahdanau, Dzmitry, Kyunghyun Cho, and Yoshua Bengio. 2015. Neural machine translation by jointly learning to align and translate. *ICLR*
+    - Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... and Polosukhin, I. (2017). Attention is all you need. *Advances in neural information processing systems*, 30.
+    - Parts 1, 2, 5, 6, and 8 Lecture Notes and Slides for CS224n: Natural Language Processing with Deep Learning, by Christopher D. Manning, Diyi Yang, and Tatsunori Hashimoto, https://web.stanford.edu/class/cs224n/.
+    - Chapters 9, 10, and 11 *Dive into Deep Learning* (2nd Edition), 2023, by Aston Zhang, Zack Lipton, Mu Li, and Alex J. Smola, https://d2l.ai/.
+    - [Word Embeddings Trained on Google News Corpus](https://github.com/mmihaltz/word2vec-GoogleNews-vectors)
+    - [RNN and LSTM Visualizations](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+    - [PyTorch's Tutorial of Seq2Seq for Machine Translation](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
+    - [Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+    - [Transformer from Scratch](https://peterbloem.nl/blog/transformers), with the [Code on GitHub](https://github.com/pbloem/former)
