@@ -153,3 +153,28 @@ The following schedule is tentative and subject to changes.
     - [PyTorch's Tutorial of Seq2Seq for Machine Translation](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
     - [Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
     - [Transformer from Scratch](https://peterbloem.nl/blog/transformers), with the [Code on GitHub](https://github.com/pbloem/former)
+
+### Session 4. Deep-Learning-Based NLP: Pretraining and LLM (May/12/2024, 2:00pm-5:40pm)
+- **Keywords**: BERT (Bidirectional Encoder Representations from Transformers), GPT (Generative Pretrained Transformers), LLM (Large Language Model)
+- **Slides**: [Deep Learning Computation](https://docs.google.com/presentation/d/1RlloczzRGrHOZqV_KBYVxYy7aljx4nN8BIEbx1KBWKE/edit?invite=CPjxzs8B#slide=id.g2c123b2306c_0_358), [Pretraining and LLM](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-7-NLP(III).pdf)
+- **CoLab Notebook Demos**: [Crafting Intelligence: The Art of Deep Learning Modeling](https://colab.research.google.com/drive/1FoFSjfGiCiAXJCCogIE5f12FrN-k9nLh), [BERT API @ Hugging Face](https://colab.research.google.com/drive/1JR3aaNuIbEZ79EIm6Djc75yo0ZWXwxUV?usp=drive_link)
+- **References**:
+    - Devlin, Jacob, Ming-Wei Chang, Kenton Lee, Kristina Toutanova. 2018. BERT: Pre-training of deep bidirectional transformers for language understanding. *ArXiv preprint* arXiv:1810.04805. [GitHub Repo](https://github.com/google-research/bert)
+    - Radford, Alec, Karthik Narasimhan, Tim Salimans, and Ilya Sutskever. 2018. Improving language understanding by generative pre-training, (GPT-1) [PDF link](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf), [GitHub Repo](https://github.com/openai/finetune-transformer-lm)
+    - Radford, Alec, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, Ilya Sutskever. 2019. Language models are unsupervised multitask learners. OpenAI blog, 1(8), 9. (GPT-2) [PDF Link](https://insightcivic.s3.us-east-1.amazonaws.com/language-models.pdf), [GitHub Repo](https://github.com/openai/gpt-2)
+    - Brown, Tom, et al. 2020. Language models are few-shot learners. *Advances in neural information processing systems*, 33, 1877-1901. (GPT-3) [GitHub Repo](https://github.com/openai/gpt-3)
+    - Huang, Allen H., Hui Wang, and Yi Yang. 2023. FinBERT: A large language model for extracting information from financial text. *Contemporary Accounting Research*, 40(2): 806-841. [GitHub Repo](https://github.com/yya518/FinBERT)
+    - Wei, Jason, et al. 2021. Finetuned language models are zero-shot learners. *ArXiv preprint* arXiv:2109.01652, [link to the paper](https://arxiv.org/abs/2109.01652).
+    - Wei, Jason, et al. 2022. Emergent abilities of large language models. *ArXiv preprint* arXiv:2206.07682, [link to the paper](https://arxiv.org/abs/2206.07682).
+    - Ouyang, Long, et al. 2022. Training language models to follow instructions with human feedback. *Advances in Neural Information Processing Systems*, **35**, 27730-27744.
+    - Wei, Jason, et al. 2022. Chain-of-thought prompting elicits reasoning in large language models. *Advances in Neural Information Processing Systems*, **35**, 24824-24837.
+    - Kaplan, Jared. 2020. Scaling laws for neural language models. *ArXiv preprint* arXiv:2001.08361, [link to the paper](https://arxiv.org/abs/2001.08361).
+    - Hoffmann, Jordan, et al. 2022. Training compute-optimal large language models. *ArXiv preprint* arXiv:2203.15556, [link to the paper](https://arxiv.org/abs/2203.15556).
+    - Shinn, Noah, et al. 2023. Reflexion: Language agents with verbal reinforcement learning. *ArXiv preprint* arXiv:2303.11366, [link to the paper](https://arxiv.org/abs/2303.11366).
+    - Reisenbichler, Martin, Thomas Reutterer, David A. Schweidel, and Daniel Dan. 2022. Frontiers: Supporting content marketing with natural language generation. *Marketing Science*, **41**(3): 441-452.
+    - Romera-Paredes, B., Barekatain, M., Novikov, A. et al. 2023. Mathematical discoveries from program search with large language models. *Nature*, [link to the paper](https://doi.org/10.1038/s41586-023-06924-6).
+    - Parts 9 & 10, Lecture Notes and Slides for CS 224N: Natural Language Processing with Deep Learning, by Christopher D. Manning, Diyi Yang, and Tatsunori Hashimoto. [Link to CS 224N](https://web.stanford.edu/class/cs224n/)
+    - COS 597G: Understanding Large Language Models, by Danqi Chen. [Link to COS 597G](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
+    - [A Visual Guide to BERT](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/), [How GPT-3 Works](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
+    - [Andrej Karpathy's 1-hour Talk on LLM](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+    - [CS224n, Hugging Face Tutorial](https://colab.research.google.com/drive/13r94i6Fh4oYf-eJRSi7S_y_cen5NYkBm?usp=sharing)
