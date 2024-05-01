@@ -11,7 +11,7 @@
 - Time: 
    - **1st-Half**: May 8 (2:00PM-5:40PM); May 10 (6:00PM-9:05PM); May 11 (6:00PM-9:05PM); May 12 (2:00PM-5:40PM)
    - **2nd-Half**: May 15 (2:00PM-5:40PM); May 16 (6:00PM-9:05PM); May 17 (6:00PM-9:05PM); May 18 (2:00PM-5:40PM)
-- Location: TBD
+- Location: Xinshangyuan (新上院) S303
 
 ## About
 Welcome to the mono-repo of the PhD course AI for Business Research at SJTU Antai College of Economics and Management in Summer 2024. You may download the [Syllabus](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/AI-PhD-Syllabus-Su2024.pdf) of this course first. The purpose of this course is to learn the following:
