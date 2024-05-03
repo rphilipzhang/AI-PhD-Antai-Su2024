@@ -197,4 +197,19 @@ The following schedule is tentative and subject to changes.
     - Course Notes (Lectures 5 & 6) for CS231n: Deep Learning for Computer Vision, by Fei-Fei Li, Ruohan Gao, & Yunzhu Li. [Link to CS231n](http://cs231n.stanford.edu/schedule.html).
     - Chapters 7 and 8, *Dive into Deep Learning* (2nd Edition), 2023, by Aston Zhang, Zack Lipton, Mu Li, and Alex J. Smola. [Link to the book](https://d2l.ai/).
     - [Fine-Tune ViT for Image Classification with Hugging Face 🤗 Transformers](https://huggingface.co/blog/fine-tune-vit) 
-    - [Hugging Face 🤗 ViT CoLab Tutorial](https://colab.research.google.com/github/nateraw/huggingface-hub-examples/blob/main/vit_image_classification_explained.ipynb)   
+    - [Hugging Face 🤗 ViT CoLab Tutorial](https://colab.research.google.com/github/nateraw/huggingface-hub-examples/blob/main/vit_image_classification_explained.ipynb)
+
+
+### Session 6. Deep-Learning-Based CV (II): Object Detection & Video Analysis (Apr/2/2024)
+- **Keywords**: Image Processing Applications, Localization, R-CNNs, YOLOs, Semantic Segmentation, 3D CNN, Video Analysis Applications 
+- **Slides**: [Object Detection and Video Analysis](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-9-CV(II).pdf) 
+- **CoLab Notebook Demos**: [Data Augmentation](https://colab.research.google.com/drive/1aKJbGb_1lwKlBGJJhGg7y-W_H7f_QyQK?usp=share_link), [Faster R-CNN & YOLO v5](https://colab.research.google.com/drive/1bvFqFCJt-TtQOrmrsgIX3DTlBseyFlGQ?usp=share_link)
+- **References**:
+    - Girshick, R., Donahue, J., Darrell, T. and Malik, J., 2014. Rich feature hierarchies for accurate object detection and semantic segmentation. *Proceedings of the IEEE conference on computer vision and pattern recognition* (pp. 580-587).
+    - Redmon, Joseph, Santosh Divvala, Ross Girshick, and Ali Farhadi. 2016. You only look once: Unified, real-time object detection. *Proceedings of the IEEE conference on computer vision and pattern recognition* (pp. 779-788).
+    - Karpathy, A., Toderici, G., Shetty, S., Leung, T., Sukthankar, R. and Fei-Fei, L., 2014. Large-scale video classification with convolutional neural networks. *Proceedings of the IEEE conference on Computer Vision and Pattern Recognition* (pp. 1725-1732).
+    - Glaeser, Edward L., Scott D. Kominers, Michael Luca, and Nikhil Naik. 2018. Big data and big cities: The promises and limitations of improved measures of urban life. *Economic Inquiry*, **56**(1): 114-137.
+    - Zhang, S., Xu, K. and Srinivasan, K., 2023. Frontiers: Unmasking Social Compliance Behavior During the Pandemic. *Marketing Science*, 42(3), pp.440-450.
+    - Yang, Jeremy, Juanjuan Zhang, and Yuhan Zhang. 2023. Engagement that sells: Influencer video advertising on TikTok. *Available at SSRN* [Link to the Paper](https://ssrn.com/abstract=3815124)
+    - Course Notes (Lectures 10 & 11) for CS231n: Deep Learning for Computer Vision, by Fei-Fei Li, Ruohan Gao, & Yunzhu Li. [Link to CS231n](http://cs231n.stanford.edu/schedule.html).
+    - Chapter 14, *Dive into Deep Learning* (2nd Edition), 2023, by Aston Zhang, Zack Lipton, Mu Li, and Alex J. Smola. [Link to the book](https://d2l.ai/).   
