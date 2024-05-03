@@ -206,10 +206,15 @@ The following schedule is tentative and subject to changes.
 - **CoLab Notebook Demos**: [Data Augmentation](https://colab.research.google.com/drive/1aKJbGb_1lwKlBGJJhGg7y-W_H7f_QyQK?usp=share_link), [Faster R-CNN & YOLO v5](https://colab.research.google.com/drive/1bvFqFCJt-TtQOrmrsgIX3DTlBseyFlGQ?usp=share_link)
 - **References**:
     - Girshick, R., Donahue, J., Darrell, T. and Malik, J., 2014. Rich feature hierarchies for accurate object detection and semantic segmentation. *Proceedings of the IEEE conference on computer vision and pattern recognition* (pp. 580-587).
+    - Girshick, R., Donahue, J., Darrell, T., & Malik, J. (2014). Rich feature hierarchies for accurate object detection and semantic segmentation. In *Proceedings of the IEEE conference on computer vision and pattern recognition* (pp. 580-587).
+    - Girshick, R. (2015). Fast r-cnn. In *Proceedings of the IEEE international conference on computer vision* (pp. 1440-1448).
+    - Ren, S., He, K., Girshick, R., & Sun, J. (2015). Faster r-cnn: Towards real-time object detection with region proposal networks. *Advances in neural information processing systems*, 28.
     - Redmon, Joseph, Santosh Divvala, Ross Girshick, and Ali Farhadi. 2016. You only look once: Unified, real-time object detection. *Proceedings of the IEEE conference on computer vision and pattern recognition* (pp. 779-788).
+    - Long, J., Shelhamer, E., & Darrell, T. (2015). Fully convolutional networks for semantic segmentation. In *Proceedings of the IEEE conference on computer vision and pattern recognition* (pp. 3431-3440).
     - Karpathy, A., Toderici, G., Shetty, S., Leung, T., Sukthankar, R. and Fei-Fei, L., 2014. Large-scale video classification with convolutional neural networks. *Proceedings of the IEEE conference on Computer Vision and Pattern Recognition* (pp. 1725-1732).
     - Glaeser, Edward L., Scott D. Kominers, Michael Luca, and Nikhil Naik. 2018. Big data and big cities: The promises and limitations of improved measures of urban life. *Economic Inquiry*, **56**(1): 114-137.
     - Zhang, S., Xu, K. and Srinivasan, K., 2023. Frontiers: Unmasking Social Compliance Behavior During the Pandemic. *Marketing Science*, 42(3), pp.440-450.
+    - Liu, Liu, Dzyabura, Daria, Mizik, Natalie. 2020. Visual listening in: Extracting brand image portrayed on social media. *Marketing Science*, **39**(4): 669-686. [Link to the Paper](https://pubsonline.informs.org/doi/10.1287/mksc.2020.1226)
     - Yang, Jeremy, Juanjuan Zhang, and Yuhan Zhang. 2023. Engagement that sells: Influencer video advertising on TikTok. *Available at SSRN* [Link to the Paper](https://ssrn.com/abstract=3815124)
     - Course Notes (Lectures 10 & 11) for CS231n: Deep Learning for Computer Vision, by Fei-Fei Li, Ruohan Gao, & Yunzhu Li. [Link to CS231n](http://cs231n.stanford.edu/schedule.html).
     - Chapter 14, *Dive into Deep Learning* (2nd Edition), 2023, by Aston Zhang, Zack Lipton, Mu Li, and Alex J. Smola. [Link to the book](https://d2l.ai/).   
