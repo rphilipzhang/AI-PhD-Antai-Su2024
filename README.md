@@ -190,10 +190,13 @@ The following schedule is tentative and subject to changes.
 - **Homework**: [Problem Set 3 - AlexNet and ResNet](https://colab.research.google.com/drive/19q7qhYmPYbkQGEa12N2RWZRJXbzn5f30), due at 11:59pm, June 2, Sunday.
 - **References**:
     - Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. 2012. Imagenet classification with deep convolutional neural networks. *Advances in Neural Information Processing Systems*, 25.
+    - Simonyan, K., & Zisserman, A. (2014). Very deep convolutional networks for large-scale image recognition. *arXiv preprint arXiv:1409.1556*.
     - He, Kaiming, Xiangyu Zhang, Shaoqing Ren and Jian Sun. 2016. Deep residual learning for image recognition. *Proceedings of the IEEE conference on computer vision and pattern recognition*, 770-778.
+    - Hu, J., Shen, L., & Sun, G. (2018). Squeeze-and-excitation networks. In *Proceedings of the IEEE conference on computer vision and pattern recognition* (pp. 7132-7141).
     - Dosovitskiy, Alexey, et al. 2020. An image is worth 16x16 words: Transformers for image recognition at scale. *ArXiv preprint*, arXiv:2010.11929, [link to the paper](https://arxiv.org/abs/2010.11929), [link to the GitHub repo](https://github.com/google-research/vision_transformer).
     - Jean, Neal, Marshall Burke, Michael Xie, Matthew W. Davis, David B. Lobell, and Stefand Ermon. 2016. Combining satellite imagery and machine learning to predict poverty. *Science*, 353(6301), 790-794.
     - Zhang, Mengxia and Lan Luo. 2023. Can consumer-posted photos serve as a leading indicator of restaurant survival? Evidence from Yelp. *Management Science* 69(1): 25-50.
+    - Zhang, S., Lee, D., Singh, P. V., & Srinivasan, K. (2022). What makes a good image? Airbnb demand analytics leveraging interpretable image features. *Management Science*, 68(8), 5644-5666.
     - Course Notes (Lectures 5 & 6) for CS231n: Deep Learning for Computer Vision, by Fei-Fei Li, Ruohan Gao, & Yunzhu Li. [Link to CS231n](http://cs231n.stanford.edu/schedule.html).
     - Chapters 7 and 8, *Dive into Deep Learning* (2nd Edition), 2023, by Aston Zhang, Zack Lipton, Mu Li, and Alex J. Smola. [Link to the book](https://d2l.ai/).
     - [Fine-Tune ViT for Image Classification with Hugging Face 🤗 Transformers](https://huggingface.co/blog/fine-tune-vit) 
