@@ -20,7 +20,7 @@ Welcome to the mono-repo of the PhD course AI for Business Research at SJTU Anta
 - Understand how business researchers have utilized ML/AI and what managerial questions have been addressed by ML/AI in the recent decade.
 - Nurture a taste of what the state-of-the-art AI/ML technologies can do in the ML/AI community and, potentially, in your own research field.
 
-We will meet at the time specified above in XXX. Please ask for my approval if you need to join us via the following Zoom Meeting link:
+We will meet at the time specified above in Xinshangyuan (新上院) S303. Please ask for my approval if you need to join us via the following Zoom Meeting link:
 
 - [Zoom Meeting link](https://cuhk.zoom.us/j/92669380190?pwd=YWJXRTIwSmdVNEEzc0RqWk4rdUIxQT09), Meeting ID 926 6938 0190, Passcode 869709. 
 
