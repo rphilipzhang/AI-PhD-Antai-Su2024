@@ -203,7 +203,7 @@ The following schedule is tentative and subject to changes.
     - [Hugging Face 🤗 ViT CoLab Tutorial](https://colab.research.google.com/github/nateraw/huggingface-hub-examples/blob/main/vit_image_classification_explained.ipynb)
 
 
-### Session 6. Deep-Learning-Based CV (II): Object Detection & Video Analysis (Apr/2/2024)
+### Session 6. Deep-Learning-Based CV (II): Object Detection & Video Analysis (May/16/2024, 6:00pm-9:05pm)
 - **Keywords**: Image Processing Applications, Localization, R-CNNs, YOLOs, Semantic Segmentation, 3D CNN, Video Analysis Applications 
 - **Slides**: [Object Detection and Video Analysis](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-9-CV(II).pdf) 
 - **CoLab Notebook Demos**: [Data Augmentation](https://colab.research.google.com/drive/1aKJbGb_1lwKlBGJJhGg7y-W_H7f_QyQK?usp=share_link), [Faster R-CNN & YOLO v5](https://colab.research.google.com/drive/1bvFqFCJt-TtQOrmrsgIX3DTlBseyFlGQ?usp=share_link)
@@ -220,4 +220,21 @@ The following schedule is tentative and subject to changes.
     - Liu, Liu, Dzyabura, Daria, Mizik, Natalie. 2020. Visual listening in: Extracting brand image portrayed on social media. *Marketing Science*, **39**(4): 669-686. [Link to the Paper](https://pubsonline.informs.org/doi/10.1287/mksc.2020.1226)
     - Yang, Jeremy, Juanjuan Zhang, and Yuhan Zhang. 2023. Engagement that sells: Influencer video advertising on TikTok. *Available at SSRN* [Link to the Paper](https://ssrn.com/abstract=3815124)
     - Course Notes (Lectures 10 & 11) for CS231n: Deep Learning for Computer Vision, by Fei-Fei Li, Ruohan Gao, & Yunzhu Li. [Link to CS231n](http://cs231n.stanford.edu/schedule.html).
-    - Chapter 14, *Dive into Deep Learning* (2nd Edition), 2023, by Aston Zhang, Zack Lipton, Mu Li, and Alex J. Smola. [Link to the book](https://d2l.ai/).   
+    - Chapter 14, *Dive into Deep Learning* (2nd Edition), 2023, by Aston Zhang, Zack Lipton, Mu Li, and Alex J. Smola. [Link to the book](https://d2l.ai/).  
+
+
+### Session 7. Unsupervised Learning: Clustering, Topic Modeling & VAE (May/17/2024, 6:00pm-9:05pm)
+- **Keywords**: K-Means, Gaussian Mixture Models, EM-Algorithm, Latent Dirichlet Allocation, Variational Auto-Encoder
+- **Slides**: [Clustering, Topic Modeling & VAE](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-10-Unsupervised(I).pdf) 
+- **CoLab Notebook Demos**: [K-Means](https://colab.research.google.com/drive/1b8_obXdx-0895V1kgjkMPV73EvriNa_Q?usp=drive_link), [LDA](https://colab.research.google.com/drive/1hjUR_6bXl2kaioM2DZdIjtKcm7QkAwzL?usp=drive_link), [VAE](https://colab.research.google.com/drive/1EUwZmAFnf_tP3BPg8VzlIAOOmqm7nB8h?usp=drive_link)
+- **Homework**: [Problem Set 4 - Unsupervised Learning (EM & LDA)](https://colab.research.google.com/drive/1_tXPFCc-AHtLKzQGm6aD4B8EhVz9sX2l), due at 11:59pm, June 2, Sunday.
+- **References**:
+    - Blei, David M., Ng, Andrew Y., and Jordan, Michael I. 2003. Latent Dirichlet allocation. *Journal of Machine Learning Research*, 3(Jan): 993-1022.
+    - Kingma, D.P. and Welling, M., 2013. Auto-encoding Variational Bayes. arXiv preprint *arXiv:1312.6114*.
+    - Kingma, D.P. and Welling, M., 2019. An introduction to variational autoencoders. *Foundations and Trends® in Machine Learning*, 12(4), pp.307-392.
+    - Bandiera, O., Prat, A., Hansen, S., & Sadun, R. 2020. CEO behavior and firm performance. *Journal of Political Economy*, 128(4), 1325-1369.
+    - Liu, Jia and Olivier Toubia. 2018. A semantic approach for estimating consumer content preferences from online search queries. *Marketing Science*, 37(6): 930-952.    
+    - Mueller, Hannes, and Christopher Rauh. 2018. Reading between the lines: Prediction of political violence using newspaper text. *American Political Science Review*, 112(2): 358-375.
+    - Tian, Z., Dew, R. and Iyengar, R., 2023. Mega or Micro? Influencer Selection Using Follower Elasticity. *Journal of Marketing Research*.
+    - Chapters 8.5 and 14, *The Elements of Statistical Learning* (2nd Edition), 2009, by Trevor Hastie, Robert Tibshirani, Jerome Friedman, [Link to Book](https://hastie.su.domains/ElemStatLearn/).
+    - Course Notes (Lectures 1 & 4) for CS294-158-SP24: Deep Unsupervised Learning, taught by Pieter Abbeel, Wilson Yan, Kevin Frans, Philipp Wu. [Link to CS294-158-SP24](https://sites.google.com/view/berkeley-cs294-158-sp24/home). 
