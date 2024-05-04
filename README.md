@@ -242,7 +242,7 @@ The following schedule is tentative and subject to changes.
 
 ### Session 8. Unsupervised Learning: Diffusion Models (May/18/2024, 2:00pm-5:40pm)
 - **Keywords**: Denoised Diffusion Probabilistic Models, Latent Diffusion Models, CLIP, Imagen, Diffusion Transformers, Course Summary
-- **Slides**: [Diffusion Models](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-11-Unsupervised(II).pdf), [Course Summary]() 
+- **Slides**: [Diffusion Models](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-11-Unsupervised(II).pdf), [Course Summary](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-12-Final-Words.pdf) 
 - **CoLab Notebook Demos**: [DDPM](https://colab.research.google.com/github/huggingface/notebooks/blob/main/examples/annotated_diffusion.ipynb), [DiT](https://colab.research.google.com/github/facebookresearch/DiT/blob/main/run_DiT.ipynb)
 - **References**:
     - Kingma, D.P. and Welling, M., 2013. Auto-encoding Variational Bayes. arXiv preprint *arXiv:1312.6114*.
