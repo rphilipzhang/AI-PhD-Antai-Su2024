@@ -239,3 +239,24 @@ The following schedule is tentative and subject to changes.
     - Tian, Z., Dew, R. and Iyengar, R., 2023. Mega or Micro? Influencer Selection Using Follower Elasticity. *Journal of Marketing Research*.
     - Chapters 8.5 and 14, *The Elements of Statistical Learning* (2nd Edition), 2009, by Trevor Hastie, Robert Tibshirani, Jerome Friedman, [Link to Book](https://hastie.su.domains/ElemStatLearn/).
     - Course Notes (Lectures 1 & 4) for CS294-158-SP24: Deep Unsupervised Learning, taught by Pieter Abbeel, Wilson Yan, Kevin Frans, Philipp Wu. [Link to CS294-158-SP24](https://sites.google.com/view/berkeley-cs294-158-sp24/home). 
+
+### Session 8. Unsupervised Learning: Diffusion Models (May/18/2024, 2:00pm-5:40pm)
+- **Keywords**: Denoised Diffusion Probabilistic Models, Latent Diffusion Models, CLIP, Imagen, Diffusion Transformers, Course Summary
+- **Slides**: [Diffusion Models](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-11-Unsupervised(II).pdf), [Course Summary]() 
+- **CoLab Notebook Demos**: [DDPM](https://colab.research.google.com/github/huggingface/notebooks/blob/main/examples/annotated_diffusion.ipynb), [DiT](https://colab.research.google.com/github/facebookresearch/DiT/blob/main/run_DiT.ipynb)
+- **References**:
+    - Kingma, D.P. and Welling, M., 2013. Auto-encoding Variational Bayes. arXiv preprint *arXiv:1312.6114*.
+    - Kingma, D.P. and Welling, M., 2019. An introduction to variational autoencoders. *Foundations and Trends® in Machine Learning*, 12(4), pp.307-392.
+    - Ho, J., Jain, A. and Abbeel, P., 2020. Denoising diffusion probabilistic models. *Advances in neural information processing systems*, 33, 6840-6851.
+    - Chan, S.H., 2024. Tutorial on Diffusion Models for Imaging and Vision. *arXiv preprint* arXiv:2403.18103.
+    - Peebles, W. and Xie, S., 2023. Scalable diffusion models with transformers. In *Proceedings of the IEEE/CVF International Conference on Computer Vision*,  4195-4205. [Link to GitHub Repo](https://github.com/facebookresearch/DiT).
+    - Ludwig, J. and Mullainathan, S., 2024. Machine learning as a tool for hypothesis generation. *Quarterly Journal of Economics*, 139(2), 751-827.
+    - Burnap, A., Hauser, J.R. and Timoshenko, A., 2023. Product aesthetic design: A machine learning augmentation. *Marketing Science*, 42(6), 1029-1056.
+    - Dew, R., Ansari, A., & Toubia, O. (2022). Letting logos speak: Leveraging multiview representation learning for data-driven branding and logo design. *Marketing Science*, 41(2), 401-425.
+    - Zhou, E., & Lee, D. (2024). Generative artificial intelligence, human creativity, and art. *PNAS nexus*, 3(3), pgae052.
+    - Course Notes (Lecture 6) for CS294-158-SP24: Deep Unsupervised Learning, taught by Pieter Abbeel, Wilson Yan, Kevin Frans, Philipp Wu. [Link to CS294-158-SP24](https://sites.google.com/view/berkeley-cs294-158-sp24/home).
+    - CVPR 2022 Tutorial: Denoising Diffusion-based Generative Modeling:
+Foundations and Applications, by Karsten Kreis, Ruiqi Gao, and Arash Vahdat [Link to the Tutorial](https://cvpr2022-tutorial-diffusion-models.github.io/)
+    - [Lilian Weng (OpenAI)'s Blog on Diffusion Models](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
+    - [Lilian Weng (OpenAI)'s Blog on Diffusion Models for Video Generation](https://lilianweng.github.io/posts/2024-04-12-diffusion-video/)
+    - [Hugging Face Diffusers 🤗 Library](https://huggingface.co/diffusers)
