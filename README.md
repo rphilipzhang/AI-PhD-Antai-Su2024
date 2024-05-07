@@ -2,7 +2,7 @@
 
 ## Teaching Team
 
-* *Instructor*: <a href="https://rphilipzhang.github.io/rphilipzhang/index.html" target="_blank">Renyu (Philip) Zhang</a>, Associate Professor, Department of Decisions, Operations and Technology, CUHK Business School, philipzhang@cuhk.edu.hk.
+* *Instructor*: <a href="https://rphilipzhang.github.io/rphilipzhang/index.html" target="_blank">Renyu (Philip) Zhang</a>, Associate Professor, Department of Decisions, Operations and Technology, CUHK Business School, philipzhang@cuhk.edu.hk. Office Location: Antai 912.
 * *Teaching Assistant*: Zhenkang Peng, PhD Candidate, Management Science and Engineering, SJTU Antai College of Economics and Management, zhenkang1397@gmail.com.
 
 ## Basic Information
