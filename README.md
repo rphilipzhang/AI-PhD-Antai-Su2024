@@ -177,7 +177,8 @@ The following schedule is tentative and subject to changes.
     - COS 597G: Understanding Large Language Models, by Danqi Chen. [Link to COS 597G](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
     - [A Visual Guide to BERT](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/), [How GPT-3 Works](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
     - [Andrej Karpathy's 1-hour Talk on LLM](https://www.youtube.com/watch?v=zjkBMFhNj_g)
-    - [CS224n, Hugging Face Tutorial](https://colab.research.google.com/drive/13r94i6Fh4oYf-eJRSi7S_y_cen5NYkBm?usp=sharing
+    - [CS224n, Hugging Face Tutorial](https://colab.research.google.com/drive/13r94i6Fh4oYf-eJRSi7S_y_cen5NYkBm?usp=sharing)
+    - [Andrej Karpathy's Talk to Build GPT from Scratch in Code Spelled Out](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 
 
 ### Second-Half (May/15/2024-May/18/2024) 
