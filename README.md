@@ -108,6 +108,7 @@ The following schedule is tentative and subject to changes.
     - [GPU Comparisons](https://bizon-tech.com/gpu-benchmarks/NVIDIA-A100-80-GB-(PCIe)-vs-NVIDIA-H100-(PCIe)-vs-NVIDIA-RTX-6000-Ada/624vs632vs640)
     - [GitHub Repo for Micrograd](https://github.com/karpathy/micrograd), by [Andrej Karpathy](https://github.com/karpathy).
     - [Parameter Initialization and Batch Normalization (in Chinese)](https://zhuanlan.zhihu.com/p/25110150).
+    - [Handwritten Notes](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Notes/240509.pdf)
 
 
 ### Session 2. Predictions in Business Research and Traditonal NLP (May/10/2024, 6:00pm-9:05pm)
