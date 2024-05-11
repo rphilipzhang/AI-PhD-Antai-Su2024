@@ -136,6 +136,7 @@ The following schedule is tentative and subject to changes.
 ### Session 3. Deep-Learning-Based NLP: From Word2Vec to Transformers (May/11/2024, 6:00pm-9:05pm)
 - **Keywords**: Word2Vec: Continuous Bag of Words and Skip-Gram, RNN, LSTM, Seq2Seq, Attention Mechanism, Transformer
 - **Slides**: [NLP(II): Deep Learning Based NLP](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-6-NLP(II).pdf)
+- **Recording**: [Link](https://cuhk.zoom.us/rec/share/ELATt3u69O4GnWC4G9qp4ApIcIH8cqFdyAJ8RaZep8P1mVFvRZ_3xzA5NKlkFMBQ.6glAZ72od-Z3rTCr), Passcode: 2h8nVvg@
 - **CoLab Notebook Demos**: [Word2Vec: CBOW](https://colab.research.google.com/drive/17TH1pNWhNKnWG0H58XL2yxGu17xYvJ2x), [Word2Vec: Skip-Gram](https://colab.research.google.com/drive/18EJDphTR-YM1rCnjixq6CFwON-lqQp4G), [RNN & LSTM](https://colab.research.google.com/drive/1yhg2tO0-cJvQETT2MXZalwRzesqaPlJL), [Attention Mechanism](https://colab.research.google.com/drive/1u1xz4ja_CkTS7UN4PSqT2qOelJJdi24u), [Transformer](https://colab.research.google.com/drive/1MKRzM0Ql_2PFplsZ_Q-PL7vS21YCfkKz)
 - **Homework**: [Problem Set 2 - Word2Vec & LSTM for Sentiment Analysis](https://colab.research.google.com/drive/1A9BlvYJgjX-xZLWTbaMFA7XBv14BA65Z?usp=drive_link)
 - **References**:
