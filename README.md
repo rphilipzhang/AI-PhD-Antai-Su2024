@@ -157,6 +157,7 @@ The following schedule is tentative and subject to changes.
     - [PyTorch's Tutorial of Seq2Seq for Machine Translation](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
     - [Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
     - [Transformer from Scratch](https://peterbloem.nl/blog/transformers), with the [Code on GitHub](https://github.com/pbloem/former)
+    - [Handwritten Notes (3)](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Notes/240511.pdf)
 
 ### Session 4. Deep-Learning-Based NLP: Pretraining and LLM (May/12/2024, 2:00pm-5:40pm)
 - **Keywords**: BERT (Bidirectional Encoder Representations from Transformers), GPT (Generative Pretrained Transformers), LLM (Large Language Model)
