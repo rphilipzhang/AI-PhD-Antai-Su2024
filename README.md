@@ -108,7 +108,7 @@ The following schedule is tentative and subject to changes.
     - [GPU Comparisons](https://bizon-tech.com/gpu-benchmarks/NVIDIA-A100-80-GB-(PCIe)-vs-NVIDIA-H100-(PCIe)-vs-NVIDIA-RTX-6000-Ada/624vs632vs640)
     - [GitHub Repo for Micrograd](https://github.com/karpathy/micrograd), by [Andrej Karpathy](https://github.com/karpathy).
     - [Parameter Initialization and Batch Normalization (in Chinese)](https://zhuanlan.zhihu.com/p/25110150).
-    - [Handwritten Notes](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Notes/240509.pdf)
+    - [Handwritten Notes (1)](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Notes/240509.pdf)
 
 
 ### Session 2. Predictions in Business Research and Traditonal NLP (May/10/2024, 6:00pm-9:05pm)
@@ -131,6 +131,7 @@ The following schedule is tentative and subject to changes.
     - Chapter 2, 12, & 13 *Introduction to Information Retrieval*, 2008, Cambridge University Press, by Christopher D. Manning, Prabhakar Raghavan and Hinrich Schutze. [Link to the Book](https://nlp.stanford.edu/IR-book/information-retrieval-book.html).
     - Chapter 2, 3, & 4, *Speech and Language Processing* (3rd ed. draft), 2023, by Dan Jurafsky and James H. Martin. [Link to the Book](https://web.stanford.edu/~jurafsky/slp3/). 
     - [Natural Language Tool Kit (NLTK) Documentation](https://www.nltk.org/)
+    - [Handwritten Notes (2)](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Notes/240510.pdf)
 
 ### Session 3. Deep-Learning-Based NLP: From Word2Vec to Transformers (May/11/2024, 6:00pm-9:05pm)
 - **Keywords**: Word2Vec: Continuous Bag of Words and Skip-Gram, RNN, LSTM, Seq2Seq, Attention Mechanism, Transformer
