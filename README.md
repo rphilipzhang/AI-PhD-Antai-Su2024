@@ -114,6 +114,7 @@ The following schedule is tentative and subject to changes.
 ### Session 2. Predictions in Business Research and Traditonal NLP (May/10/2024, 6:00pm-9:05pm)
 - **Keywords**: Prediction Problems in Business Research, Pre-processing and Word Representations in Traditional Natural Language Processing, N-Gram, Naïve Bayes, Traditional NLP Applied to Business/Econ Research
 - **Slides**: [Prediction Problems in Business Research](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-4-Prediction.pdf), [NLP(I): Traditional NLP](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-5-NLP(I).pdf)
+- **Recording**: [Part 1](https://cuhk.zoom.us/rec/share/T_YswL25MbIKBJ9GqF3ya_EL94--tX9AS4MCiZMUO9sKBdkgqUCYV9A59l8XJvZF.ynjOcBCifNsrkzd_) Passcode: jijD\*Gp5; [Part 2](https://cuhk.zoom.us/rec/share/WzGWPthWAHuBnUmwBvNYrFMv4iAKYH_mdEWI1xKJaTSSddIoGFRfhE3lBRh5NzDR.t_S6UrdpgfjzVDXn), Passcode: 5Exv%P4A
 - **CoLab Notebook Demos**: [NLP Pre-processing](https://colab.research.google.com/drive/1DM8HGhe4yAiku0GyenRmw_m7ApZw0pEh), [N-Gram](https://colab.research.google.com/drive/1jQGDTL3yYBtiX9Z3ymoFh-uJ0491ssFn), [Naïve Bayes](https://colab.research.google.com/drive/1ayQuYLglKqgheoAzWJiKnxtclpl_A0eN)
 - **References**:
     - Kleinberg, Jon, Jens Ludwig, Sendhil Mullainathan, and Ziad Obermeyer. 2015. Prediction policy problems. *American Economic Review* 105(5): 491-495.
