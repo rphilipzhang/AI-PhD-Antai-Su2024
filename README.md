@@ -163,6 +163,7 @@ The following schedule is tentative and subject to changes.
 ### Session 4. Deep-Learning-Based NLP: Pretraining and LLM (May/12/2024, 2:00pm-5:40pm)
 - **Keywords**: BERT (Bidirectional Encoder Representations from Transformers), GPT (Generative Pretrained Transformers), LLM (Large Language Model)
 - **Slides**: [Deep Learning Computation](https://docs.google.com/presentation/d/1RlloczzRGrHOZqV_KBYVxYy7aljx4nN8BIEbx1KBWKE/edit?invite=CPjxzs8B#slide=id.g2c123b2306c_0_358), [Pretraining and LLM](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-7-NLP(III).pdf)
+- **Recording**: [Link](https://cuhk.zoom.us/rec/share/JmNpIhUVWA4l8K0FvYl2cehb-tdixchtK_e40fwGsqhEFriP-S3fggaFtn7HPdWv.Nl2YHg3l3GNYnRAx), Passcode: 4Smj!Kaz
 - **CoLab Notebook Demos**: [Crafting Intelligence: The Art of Deep Learning Modeling](https://colab.research.google.com/drive/1FoFSjfGiCiAXJCCogIE5f12FrN-k9nLh), [BERT API @ Hugging Face](https://colab.research.google.com/drive/1JR3aaNuIbEZ79EIm6Djc75yo0ZWXwxUV?usp=drive_link)
 - **References**:
     - Devlin, Jacob, Ming-Wei Chang, Kenton Lee, Kristina Toutanova. 2018. BERT: Pre-training of deep bidirectional transformers for language understanding. *ArXiv preprint* arXiv:1810.04805. [GitHub Repo](https://github.com/google-research/bert)
