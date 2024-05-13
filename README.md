@@ -186,6 +186,7 @@ The following schedule is tentative and subject to changes.
     - [Andrej Karpathy's 1-hour Talk on LLM](https://www.youtube.com/watch?v=zjkBMFhNj_g)
     - [CS224n, Hugging Face Tutorial](https://colab.research.google.com/drive/13r94i6Fh4oYf-eJRSi7S_y_cen5NYkBm?usp=sharing)
     - [Andrej Karpathy's Talk to Build GPT from Scratch in Code Spelled Out](https://www.youtube.com/watch?v=kCc8FmEb1nY)
+    - [Handwritten Notes (4)](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Notes/240512.pdf)
 
 
 ### Second-Half (May/15/2024-May/18/2024) 
