@@ -196,7 +196,7 @@ The following schedule is tentative and subject to changes.
 - **Keywords**: Large Language Models Applications, Convolution Neural Nets (CNN), LeNet, AlexNet, VGG, ResNet, ViT
 - **Slides**: [Image Classification](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-8-CV(I).pdf)
 - **CoLab Notebook Demos**: [CNN, LeNet, & AlexNet](https://colab.research.google.com/drive/175Zl-yJ0T9PpvphjYsGgVkISBVSOpk87), [VGG](https://colab.research.google.com/drive/1PBaCRzhKGErQd9wbvoMrS1ZpOpZtqpMe), [ResNet](https://colab.research.google.com/drive/12uHYuOg1yawBBuk0E0QdRtQfiK-qSjdD), [ViT](https://colab.research.google.com/drive/1rkGJwQ8bd_iwwnRsvMTzoOGp_S8XU_-J)
-- **Homework**: [Problem Set 3 - AlexNet and ResNet](https://colab.research.google.com/drive/19q7qhYmPYbkQGEa12N2RWZRJXbzn5f30), due at 11:59pm, June 2, Sunday.
+- **Homework**: [Problem Set 3 - AlexNet and ResNet](https://colab.research.google.com/drive/1EKC6HAFEurk0EpX_haRFeptzBptY0lpz), due at 11:59pm, June 2, Sunday.
 - **References**:
     - Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. 2012. Imagenet classification with deep convolutional neural networks. *Advances in Neural Information Processing Systems*, 25.
     - Simonyan, K., & Zisserman, A. (2014). Very deep convolutional networks for large-scale image recognition. *arXiv preprint arXiv:1409.1556*.
