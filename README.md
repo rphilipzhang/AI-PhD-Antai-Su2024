@@ -195,6 +195,7 @@ The following schedule is tentative and subject to changes.
 ### Session 5. Deep-Learning-Based CV: Image Classification (May/15/2024, 2:00pm-5:40pm)
 - **Keywords**: Large Language Models Applications, Convolution Neural Nets (CNN), LeNet, AlexNet, VGG, ResNet, ViT
 - **Slides**: [Image Classification](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-8-CV(I).pdf)
+- **Recording**: [Link](https://cuhk.zoom.us/rec/share/aZHK5WD2KKnfq1kwHp9B6m5I-iQN87Y1NbaILuutRy-YlWCBJHQcWalZkLFkPvnA.0W64AS9RKexVs62Q), Passcode: 2FmxyC=b
 - **CoLab Notebook Demos**: [CNN, LeNet, & AlexNet](https://colab.research.google.com/drive/175Zl-yJ0T9PpvphjYsGgVkISBVSOpk87), [VGG](https://colab.research.google.com/drive/1PBaCRzhKGErQd9wbvoMrS1ZpOpZtqpMe), [ResNet](https://colab.research.google.com/drive/12uHYuOg1yawBBuk0E0QdRtQfiK-qSjdD), [ViT](https://colab.research.google.com/drive/1rkGJwQ8bd_iwwnRsvMTzoOGp_S8XU_-J)
 - **Homework**: [Problem Set 3 - AlexNet and ResNet](https://colab.research.google.com/drive/1EKC6HAFEurk0EpX_haRFeptzBptY0lpz), due at 11:59pm, June 2, Sunday.
 - **References**:
