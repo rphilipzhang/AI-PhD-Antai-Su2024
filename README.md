@@ -214,7 +214,8 @@ The following schedule is tentative and subject to changes.
 
 
 ### Session 6. Deep-Learning-Based CV (II): Object Detection & Video Analysis (May/16/2024, 6:00pm-9:05pm)
-- **Keywords**: Image Processing Applications, Localization, R-CNNs, YOLOs, Semantic Segmentation, 3D CNN, Video Analysis Applications 
+- **Keywords**: Image Processing Applications, Localization, R-CNNs, YOLOs, Semantic Segmentation, 3D CNN, Video Analysis Applications
+- **Recording**: [Link](https://cuhk.zoom.us/rec/share/C3xOTGiyVLxMfgaUhWiBP_IJ4pWoOHMuVSShqb_AKMK-4k15uFj8KFGbrCBb9x1C.16-4yiGEs5qzTlqq), Passcode: 2rNQ+gDh 
 - **Slides**: [Object Detection and Video Analysis](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-9-CV(II).pdf) 
 - **CoLab Notebook Demos**: [Data Augmentation](https://colab.research.google.com/drive/1aKJbGb_1lwKlBGJJhGg7y-W_H7f_QyQK?usp=share_link), [Faster R-CNN & YOLO v5](https://colab.research.google.com/drive/1bvFqFCJt-TtQOrmrsgIX3DTlBseyFlGQ?usp=share_link)
 - **References**:
