@@ -237,7 +237,9 @@ The following schedule is tentative and subject to changes.
 
 ### Session 7. Unsupervised Learning: Clustering, Topic Modeling & VAE (May/17/2024, 6:00pm-9:05pm)
 - **Keywords**: K-Means, Gaussian Mixture Models, EM-Algorithm, Latent Dirichlet Allocation, Variational Auto-Encoder
-- **Slides**: [Clustering, Topic Modeling & VAE](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-10-Unsupervised(I).pdf) 
+- **Slides**: [Clustering, Topic Modeling & VAE](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-10-Unsupervised(I).pdf)
+- **Recording**: [Link](https://cuhk.zoom.us/rec/share/ZD8I7NnlOjTVhkuEvLs8fbP0yrSYJ8n1J83VqT5O5Y5H85zsw8NPkYvzgHMF1Htx.tadCTexjpzu5aXia
+), Passcode: er#^if^6 
 - **CoLab Notebook Demos**: [K-Means](https://colab.research.google.com/drive/1b8_obXdx-0895V1kgjkMPV73EvriNa_Q?usp=drive_link), [LDA](https://colab.research.google.com/drive/1hjUR_6bXl2kaioM2DZdIjtKcm7QkAwzL?usp=drive_link), [VAE](https://colab.research.google.com/drive/1EUwZmAFnf_tP3BPg8VzlIAOOmqm7nB8h?usp=drive_link)
 - **Homework**: [Problem Set 4 - Unsupervised Learning (EM & LDA)](https://colab.research.google.com/drive/1_tXPFCc-AHtLKzQGm6aD4B8EhVz9sX2l), due at 11:59pm, June 2, Sunday.
 - **References**:
