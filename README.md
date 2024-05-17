@@ -232,6 +232,7 @@ The following schedule is tentative and subject to changes.
     - Yang, Jeremy, Juanjuan Zhang, and Yuhan Zhang. 2023. Engagement that sells: Influencer video advertising on TikTok. *Available at SSRN* [Link to the Paper](https://ssrn.com/abstract=3815124)
     - Course Notes (Lectures 10 & 11) for CS231n: Deep Learning for Computer Vision, by Fei-Fei Li, Ruohan Gao, & Yunzhu Li. [Link to CS231n](http://cs231n.stanford.edu/schedule.html).
     - Chapter 14, *Dive into Deep Learning* (2nd Edition), 2023, by Aston Zhang, Zack Lipton, Mu Li, and Alex J. Smola. [Link to the book](https://d2l.ai/).  
+    - [Handwritten Notes](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Notes/240516.pdf)
 
 
 ### Session 7. Unsupervised Learning: Clustering, Topic Modeling & VAE (May/17/2024, 6:00pm-9:05pm)
