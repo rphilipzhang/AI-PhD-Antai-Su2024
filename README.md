@@ -86,11 +86,10 @@ The following schedule is tentative and subject to changes.
 
 - **Keywords**: Course Introduction, Traditional Machine Learning Methods, Bias-Variance Trade-off, Cross Validation, Deep Learning Basics, Neural Nets Models, Computational Issues of Deep Learning
 - **Slides**: [Course Introduction](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-1-Intro.pdf), [Machine Learning Basics](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-2-Intro2ML.pdf), [Deep Learning Basics](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-3-Intro2DL.pdf)
-- **Recording**: [Link](https://cuhk.zoom.us/rec/share/MjaWl9aJZ36HwVCZhO5E1lljeHVx5XTI4taLAo_0tmMKXOu7nVaz-mhVH04QO5HB.uwwYlOqPcOFL3qhB), Passcode: %15RLVnY
 - **CoLab Notebook Demos**: [Traditional ML Models: kNN, Decision Trees, Random Forests, XGBT](https://drive.google.com/drive/u/0/folders/1yBV9xT8aJTBqeQTGWv3kgMYXcj_BzUfQ), [Deep Learning: Gradient Descent, Chain Rule, Initialization, Dropout, Micro-Gradient](https://drive.google.com/drive/u/0/folders/1IfqlTOPGg5rFghxCjgNxXVQ23i-1MnJS)
 - **Homework**: [Problem Set 1 - Bias-Variance Trade-Off](https://colab.research.google.com/drive/1-KfKoggMgFlimnelDD6CR1cROb2gfYnc)
-- **Online Python Tutorial**: [Python Tutorial CoLab](https://colab.research.google.com/drive/1Eygkyl-L1wziIHM8Ww64WMEBdWpyyvnk?usp=sharing), 10:00am-noon, May/09/2024 (Thursday), given by Zhenkang Peng, zhenkang1397@gmail.com. [Zoom Meeting Link](https://cuhk.zoom.us/j/93652436720?pwd=UE04RkNjd1NsckNwSnlpVHB3WjQxdz09), Meeting ID: 936 5243 6720, Passcode: 234990; [Recording of the Tutorial](https://cuhk.zoom.us/rec/share/xkFBjssiOfM-418On_7-n27xWterP5j4aBVbV4msIGO91gfDjolWHGZ1sm-q3SKL.dIGfnKujiH54s0_9), Passcode: e2Yd#7mb 
-- **Online PyTorch Tutorial**: [PyTorch Tutorial CoLab](https://colab.research.google.com/drive/1eR9XVw46Z1kV1c1kexBP6Si-3v4bQ5Cn?usp=sharing), 10:00am-noon, May/10/2024 (Friday), given by Zhenkang Peng, zhenkang1397@gmail.com. [Zoom Meeting Link](https://cuhk.zoom.us/j/93652436720?pwd=UE04RkNjd1NsckNwSnlpVHB3WjQxdz09), Meeting ID: 936 5243 6720, Passcode: 234990; [Recording of the Tutorial](https://cuhk.zoom.us/rec/share/SpZJcUAMHx-G-m3bDyudqFMC7XRU79T4ueoHk3b7s-MONvz8XHTiQ_Yv-9UCHpHK.V0Gill2IWB-QpiI8), Passcode: 8vJH*z&2 
+- **Online Python Tutorial**: [Python Tutorial CoLab](https://colab.research.google.com/drive/1Eygkyl-L1wziIHM8Ww64WMEBdWpyyvnk?usp=sharing), 10:00am-noon, May/09/2024 (Thursday), given by Zhenkang Peng, zhenkang1397@gmail.com. [Zoom Meeting Link](https://cuhk.zoom.us/j/93652436720?pwd=UE04RkNjd1NsckNwSnlpVHB3WjQxdz09), Meeting ID: 936 5243 6720, Passcode: 234990
+- **Online PyTorch Tutorial**: [PyTorch Tutorial CoLab](https://colab.research.google.com/drive/1eR9XVw46Z1kV1c1kexBP6Si-3v4bQ5Cn?usp=sharing), 10:00am-noon, May/10/2024 (Friday), given by Zhenkang Peng, zhenkang1397@gmail.com. [Zoom Meeting Link](https://cuhk.zoom.us/j/93652436720?pwd=UE04RkNjd1NsckNwSnlpVHB3WjQxdz09), Meeting ID: 936 5243 6720, Passcode: 234990 
 - **References**:
     - *The Elements of Statistical Learning* (2nd Edition), 2009, by Trevor Hastie, Robert Tibshirani, Jerome Friedman. [Link to the Book](https://hastie.su.domains/ElemStatLearn/).
     - *Probabilistic Machine Learning: An Introduction*, 2022, by Kevin Murphy. [Link to the Book](https://probml.github.io/pml-book/book1.html).
@@ -114,7 +113,6 @@ The following schedule is tentative and subject to changes.
 ### Session 2. Predictions in Business Research and Traditonal NLP (May/10/2024, 6:00pm-9:05pm)
 - **Keywords**: Prediction Problems in Business Research, Pre-processing and Word Representations in Traditional Natural Language Processing, N-Gram, Naïve Bayes, Traditional NLP Applied to Business/Econ Research
 - **Slides**: [Prediction Problems in Business Research](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-4-Prediction.pdf), [NLP(I): Traditional NLP](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-5-NLP(I).pdf)
-- **Recording**: [Part 1](https://cuhk.zoom.us/rec/share/T_YswL25MbIKBJ9GqF3ya_EL94--tX9AS4MCiZMUO9sKBdkgqUCYV9A59l8XJvZF.ynjOcBCifNsrkzd_) Passcode: jijD\*Gp5; [Part 2](https://cuhk.zoom.us/rec/share/WzGWPthWAHuBnUmwBvNYrFMv4iAKYH_mdEWI1xKJaTSSddIoGFRfhE3lBRh5NzDR.t_S6UrdpgfjzVDXn), Passcode: 5Exv%P4A
 - **CoLab Notebook Demos**: [NLP Pre-processing](https://colab.research.google.com/drive/1DM8HGhe4yAiku0GyenRmw_m7ApZw0pEh), [N-Gram](https://colab.research.google.com/drive/1jQGDTL3yYBtiX9Z3ymoFh-uJ0491ssFn), [Naïve Bayes](https://colab.research.google.com/drive/1ayQuYLglKqgheoAzWJiKnxtclpl_A0eN)
 - **References**:
     - Kleinberg, Jon, Jens Ludwig, Sendhil Mullainathan, and Ziad Obermeyer. 2015. Prediction policy problems. *American Economic Review* 105(5): 491-495.
@@ -136,7 +134,6 @@ The following schedule is tentative and subject to changes.
 ### Session 3. Deep-Learning-Based NLP: From Word2Vec to Transformers (May/11/2024, 6:00pm-9:05pm)
 - **Keywords**: Word2Vec: Continuous Bag of Words and Skip-Gram, RNN, LSTM, Seq2Seq, Attention Mechanism, Transformer
 - **Slides**: [NLP(II): Deep Learning Based NLP](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-6-NLP(II).pdf)
-- **Recording**: [Link](https://cuhk.zoom.us/rec/share/ELATt3u69O4GnWC4G9qp4ApIcIH8cqFdyAJ8RaZep8P1mVFvRZ_3xzA5NKlkFMBQ.6glAZ72od-Z3rTCr), Passcode: 2h8nVvg@
 - **CoLab Notebook Demos**: [Word2Vec: CBOW](https://colab.research.google.com/drive/17TH1pNWhNKnWG0H58XL2yxGu17xYvJ2x), [Word2Vec: Skip-Gram](https://colab.research.google.com/drive/18EJDphTR-YM1rCnjixq6CFwON-lqQp4G), [RNN & LSTM](https://colab.research.google.com/drive/1yhg2tO0-cJvQETT2MXZalwRzesqaPlJL), [Attention Mechanism](https://colab.research.google.com/drive/1u1xz4ja_CkTS7UN4PSqT2qOelJJdi24u), [Transformer](https://colab.research.google.com/drive/1MKRzM0Ql_2PFplsZ_Q-PL7vS21YCfkKz)
 - **Homework**: [Problem Set 2 - Word2Vec & LSTM for Sentiment Analysis](https://colab.research.google.com/drive/1A9BlvYJgjX-xZLWTbaMFA7XBv14BA65Z?usp=drive_link)
 - **References**:
@@ -163,7 +160,6 @@ The following schedule is tentative and subject to changes.
 ### Session 4. Deep-Learning-Based NLP: Pretraining and LLM (May/12/2024, 2:00pm-5:40pm)
 - **Keywords**: BERT (Bidirectional Encoder Representations from Transformers), GPT (Generative Pretrained Transformers), LLM (Large Language Model)
 - **Slides**: [Deep Learning Computation](https://docs.google.com/presentation/d/1RlloczzRGrHOZqV_KBYVxYy7aljx4nN8BIEbx1KBWKE/edit?invite=CPjxzs8B#slide=id.g2c123b2306c_0_358), [Pretraining and LLM](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-7-NLP(III).pdf)
-- **Recording**: [Link](https://cuhk.zoom.us/rec/share/JmNpIhUVWA4l8K0FvYl2cehb-tdixchtK_e40fwGsqhEFriP-S3fggaFtn7HPdWv.Nl2YHg3l3GNYnRAx), Passcode: 4Smj!Kaz
 - **CoLab Notebook Demos**: [Crafting Intelligence: The Art of Deep Learning Modeling](https://colab.research.google.com/drive/1FoFSjfGiCiAXJCCogIE5f12FrN-k9nLh), [BERT API @ Hugging Face](https://colab.research.google.com/drive/1JR3aaNuIbEZ79EIm6Djc75yo0ZWXwxUV?usp=drive_link)
 - **References**:
     - Devlin, Jacob, Ming-Wei Chang, Kenton Lee, Kristina Toutanova. 2018. BERT: Pre-training of deep bidirectional transformers for language understanding. *ArXiv preprint* arXiv:1810.04805. [GitHub Repo](https://github.com/google-research/bert)
@@ -195,7 +191,6 @@ The following schedule is tentative and subject to changes.
 ### Session 5. Deep-Learning-Based CV: Image Classification (May/15/2024, 2:00pm-5:40pm)
 - **Keywords**: Large Language Models Applications, Convolution Neural Nets (CNN), LeNet, AlexNet, VGG, ResNet, ViT
 - **Slides**: [Image Classification](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-8-CV(I).pdf)
-- **Recording**: [Link](https://cuhk.zoom.us/rec/share/aZHK5WD2KKnfq1kwHp9B6m5I-iQN87Y1NbaILuutRy-YlWCBJHQcWalZkLFkPvnA.0W64AS9RKexVs62Q), Passcode: 2FmxyC=b
 - **CoLab Notebook Demos**: [CNN, LeNet, & AlexNet](https://colab.research.google.com/drive/175Zl-yJ0T9PpvphjYsGgVkISBVSOpk87), [VGG](https://colab.research.google.com/drive/1PBaCRzhKGErQd9wbvoMrS1ZpOpZtqpMe), [ResNet](https://colab.research.google.com/drive/12uHYuOg1yawBBuk0E0QdRtQfiK-qSjdD), [ViT](https://colab.research.google.com/drive/1rkGJwQ8bd_iwwnRsvMTzoOGp_S8XU_-J)
 - **Homework**: [Problem Set 3 - AlexNet and ResNet](https://colab.research.google.com/drive/1EKC6HAFEurk0EpX_haRFeptzBptY0lpz), due at 11:59pm, June 2, Sunday.
 - **References**:
@@ -215,7 +210,6 @@ The following schedule is tentative and subject to changes.
 
 ### Session 6. Deep-Learning-Based CV (II): Object Detection & Video Analysis (May/16/2024, 6:00pm-9:05pm)
 - **Keywords**: Image Processing Applications, Localization, R-CNNs, YOLOs, Semantic Segmentation, 3D CNN, Video Analysis Applications
-- **Recording**: [Link](https://cuhk.zoom.us/rec/share/C3xOTGiyVLxMfgaUhWiBP_IJ4pWoOHMuVSShqb_AKMK-4k15uFj8KFGbrCBb9x1C.16-4yiGEs5qzTlqq), Passcode: 2rNQ+gDh 
 - **Slides**: [Object Detection and Video Analysis](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-9-CV(II).pdf) 
 - **CoLab Notebook Demos**: [Data Augmentation](https://colab.research.google.com/drive/1aKJbGb_1lwKlBGJJhGg7y-W_H7f_QyQK?usp=share_link), [Faster R-CNN & YOLO v5](https://colab.research.google.com/drive/1bvFqFCJt-TtQOrmrsgIX3DTlBseyFlGQ?usp=share_link)
 - **References**:
@@ -238,8 +232,6 @@ The following schedule is tentative and subject to changes.
 ### Session 7. Unsupervised Learning: Clustering, Topic Modeling & VAE (May/17/2024, 6:00pm-9:05pm)
 - **Keywords**: K-Means, Gaussian Mixture Models, EM-Algorithm, Latent Dirichlet Allocation, Variational Auto-Encoder
 - **Slides**: [Clustering, Topic Modeling & VAE](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-10-Unsupervised(I).pdf)
-- **Recording**: [Link](https://cuhk.zoom.us/rec/share/ZD8I7NnlOjTVhkuEvLs8fbP0yrSYJ8n1J83VqT5O5Y5H85zsw8NPkYvzgHMF1Htx.tadCTexjpzu5aXia
-), Passcode: er#^if^6 
 - **CoLab Notebook Demos**: [K-Means](https://colab.research.google.com/drive/1b8_obXdx-0895V1kgjkMPV73EvriNa_Q?usp=drive_link), [LDA](https://colab.research.google.com/drive/1hjUR_6bXl2kaioM2DZdIjtKcm7QkAwzL?usp=drive_link), [VAE](https://colab.research.google.com/drive/1EUwZmAFnf_tP3BPg8VzlIAOOmqm7nB8h?usp=drive_link)
 - **Homework**: [Problem Set 4 - Unsupervised Learning (EM & LDA)](https://colab.research.google.com/drive/1_tXPFCc-AHtLKzQGm6aD4B8EhVz9sX2l), due at 11:59pm, June 2, Sunday.
 - **References**:
@@ -258,7 +250,6 @@ The following schedule is tentative and subject to changes.
 ### Session 8. Unsupervised Learning: Diffusion Models (May/18/2024, 2:00pm-5:40pm)
 - **Keywords**: Denoised Diffusion Probabilistic Models, Latent Diffusion Models, CLIP, Imagen, Diffusion Transformers, Course Summary
 - **Slides**: [Diffusion Models](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-11-Unsupervised(II).pdf), [Course Summary](https://github.com/rphilipzhang/AI-PhD-Antai-Su2024/blob/main/Slides/AI-PhD-Su2024-12-Final-Words.pdf) 
-- **Recording**: [Link](https://cuhk.zoom.us/rec/share/WYaD7bOdmseEGrPHKfTx8aOyqUwPRZlFpTdqRSvkydkJrwVIg29jvYGUqdD1Al10.YMwD82eMnNSXlpsu), Passcode: 6rsX0aD*
 - **CoLab Notebook Demos**: [DDPM](https://colab.research.google.com/github/huggingface/notebooks/blob/main/examples/annotated_diffusion.ipynb), [DiT](https://colab.research.google.com/github/facebookresearch/DiT/blob/main/run_DiT.ipynb)
 - **References**:
     - Kingma, D.P. and Welling, M., 2013. Auto-encoding Variational Bayes. arXiv preprint *arXiv:1312.6114*.
