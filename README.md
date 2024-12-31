@@ -1,5 +1,8 @@
 # Artificial Intelligence for Business Research @Antai (Summer 2024)
 
+- [**Scribed Lecture Notes**](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Notes/Scribed_Notes-AI-PhD-S24.pdf)
+- [**Class Recordings** (You need to apply for the access.)](https://docs.google.com/document/d/15nrUMEhW-Le3N8AJwxWrH1UFxWc0G1w2ZeGbbDwELQc/edit?usp=sharing)
+
 ## Teaching Team
 
 * *Instructor*: <a href="https://rphilipzhang.github.io/rphilipzhang/index.html" target="_blank">Renyu (Philip) Zhang</a>, Associate Professor, Department of Decisions, Operations and Technology, CUHK Business School, philipzhang@cuhk.edu.hk. Office Location: Antai 912.
@@ -22,7 +25,7 @@ Welcome to the mono-repo of the PhD course AI for Business Research at SJTU Anta
 
 We will meet at the time specified above in Xinshangyuan (新上院) S303. Please ask for my approval if you need to join us via the following Zoom Meeting link:
 
-- [Zoom Meeting link](https://cuhk.zoom.us/j/92669380190?pwd=YWJXRTIwSmdVNEEzc0RqWk4rdUIxQT09), Meeting ID 926 6938 0190, Passcode 869709. 
+- [Zoom Meeting link](https://cuhk.zoom.us/j/92669380190?pwd=YWJXRTIwSmdVNEEzc0RqWk4rdUIxQT09), Meeting ID 926 6938 0190, Passcode 869709.
 
 Most of the code in this course will be distributed through the [Google CoLab](https://colab.research.google.com/) cloud computing environment to avoid the incompatibility and version control issues on your local individual computer. On the other hand, you can always download the Jupyter Notebook from CoLab and run it your own computer.
 
