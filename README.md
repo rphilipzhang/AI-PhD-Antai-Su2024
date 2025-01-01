@@ -1,7 +1,7 @@
 # Artificial Intelligence for Business Research @Antai (Summer 2024)
 
 - [**Scribed Lecture Notes**](https://github.com/rphilipzhang/AI-PhD-S24/blob/main/Notes/Scribed_Notes-AI-PhD-S24.pdf)
-- [**Class Recordings** (You need to apply for the access.)](https://docs.google.com/document/d/15nrUMEhW-Le3N8AJwxWrH1UFxWc0G1w2ZeGbbDwELQc/edit?usp=sharing)
+- [**Class Recordings** (You need to apply for access.)](https://docs.google.com/document/d/15nrUMEhW-Le3N8AJwxWrH1UFxWc0G1w2ZeGbbDwELQc/edit?usp=sharing)
 
 ## Teaching Team
 
